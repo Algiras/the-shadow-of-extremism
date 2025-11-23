@@ -14,9 +14,12 @@ book:
   date: "today"
 
   chapters:
+    - epigraph.qmd
+    - preface.qmd
+    - acknowledgements.qmd
+    - index.qmd
     - 00-copyright.qmd
     - 00-dedication.qmd
-    - index.qmd
     - 01-foundations.qmd
     - 02-abrahamic-family.qmd
     - 03-medieval-scars.qmd
