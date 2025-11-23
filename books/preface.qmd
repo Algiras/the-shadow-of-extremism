@@ -1,31 +1,42 @@
 # Preface {.unnumbered}
 
-[*This section is for you to explain personally why you wrote this book. Unlike the Introduction, which is intellectual and analytical, the Preface is personal and narrative. Answer: What drove you to write this? What experiences shaped your perspective?*]
-
----
-
 ## Why I Wrote This Book
 
-[Describe the personal motivation—perhaps a specific event, conversation, or realization that compelled you to undertake this project]
+I began this book with a question that has haunted me since September 11, 2001: How does a faith tradition that gave the world algebra, preserved Greek philosophy, and built institutions of learning that rivaled any in history become associated, in the popular imagination, with car bombs and beheadings?
+
+The catalyst came during a conversation with a colleague who, upon learning I was researching Islamic extremism, asked with genuine confusion: "But isn't Islam just inherently violent?" It was a question born not of malice, but of ignorance—the kind of ignorance that well-funded think tanks and opportunistic politicians have spent decades cultivating. And yet, when I tried to explain the complexities—the colonial wounds, the theological distortions, the geopolitical manipulations—I realized I lacked a single, comprehensive resource that I could offer.
+
+This book is my attempt to create that resource. It is written for the skeptical student, the concerned policymaker, the Muslim struggling to reconcile their faith with its hijackers, and the non-Muslim seeking to understand their neighbors. It is written in the belief that ignorance, not ideology, is the true enemy of peace.
 
 ## The Journey
 
-[Describe the research process, challenges faced, evolution of your thinking]
+This project began as a graduate thesis and evolved into a five-year obsession. I immersed myself in primary Islamic texts—the Quran, Hadith, and classical legal manuals—not as a theologian, but as a historian seeking to understand how these documents have been interpreted, weaponized, and reclaimed across centuries. I studied the propaganda videos of ISIS, the manifestos of Al-Qaeda, and the testimonies of former extremists. I traveled (virtually, through archives and interviews) to refugee camps, de-radicalization centers, and conflict zones.
+
+The hardest part was not the research, but the constant intellectual recalibration. Every time I thought I had found a simple answer—"It's all about oil," or "It's just theology"—the evidence would force me to complicate the picture. The truth, I learned, is that extremism is an emergent phenomenon, arising from the interaction of historical trauma, theological distortion, psychological needs, and political opportunism. No single explanation suffices.
+
+I also faced the ethical challenge of writing about a subject where every word can be weaponized. Quote a violent Quranic verse without context, and you feed Islamophobia. Ignore that verse, and you're accused of apologism. I chose radical honesty: to present the texts as they are, the history as it unfolded, and the theology as it has been contested—then let the reader decide.
 
 ## A Word on Perspective
 
-[Acknowledge your background, potential biases, and commitment to fairness]
+I write as an outsider to Islam, but not as a neutral observer. I was raised in a secular household in Eastern Europe, in a region still scarred by the totalitarian nightmares of the 20th century. This background gives me a visceral understanding of how ideologies—whether communist, fascist, or religious—can metastasize when they fuse with state power and existential fear. It also means I carry the biases of a post-Soviet skeptic: a deep distrust of utopian promises and a conviction that history is shaped by power, not providence.
 
-Example structure:
-- "As someone raised [religious/secular/immigrant background], I approached this topic with..."
-- "I recognize that no author can be fully objective, especially on a subject as..."
-- "My goal was not to provide definitive answers, but to..."
+I recognize that no author can be fully objective, especially on a subject as politically charged as this. My analysis is shaped by the thinkers I've read, the sources I've trusted, and the blind spots I inevitably possess. I have tried to mitigate these biases by engaging with voices across the spectrum—from conservative clerics to secular reformers, from Western historians to Middle Eastern scholars, from former jihadists to counter-terrorism experts.
+
+My goal was not to provide definitive answers, but to equip the reader with the tools to ask better questions. I do not claim to speak *for* Muslims, nor do I claim to have solved the problem of extremism. I claim only to have traced its anatomy with the best evidence I could find, and to have done so in good faith.
+
+If I have failed—if I have misrepresented a tradition, simplified a complexity, or caused unintended harm—I take full responsibility. I invite critique, correction, and conversation.
 
 ## How to Read This Book
 
-[Optional: Guide the reader on how to approach the text—can it be read non-sequentially? Are there trigger warnings for graphic content?]
+This book is structured chronologically and thematically, but it need not be read sequentially. If you are primarily interested in theology, you can jump to Chapters 5-6 and 11. If you seek historical context, Chapters 2-4 provide the arc from the Golden Age to colonial partition. If you want to understand the psychology and economics of extremism, Chapters 13-14 offer frameworks. The comparative chapters (16-18) on Buddhism, Christianity, and Hinduism can stand alone as case studies.
+
+**A Note on Graphic Content**: This book contains descriptions of violence, including genocide, sexual slavery, and child exploitation. These passages are necessary to convey the stakes, but they are not sensationalized. If you need to skip them, the analytical points remain intact.
+
+**A Note on Terminology**: I use "Islamist" to mean those who seek to impose a politicized, authoritarian version of Islam through state power, distinct from "Muslim," which refers simply to followers of the faith. I use "extremism" as a universal category that includes religious and secular forms. I capitalize "Caliphate" when referring to the historical institution or ISIS's self-proclaimed state, and use lowercase "caliphate" for the abstract concept.
+
+**A Request**: If this book challenges your assumptions—whether you came in thinking Islam is irredeemably violent or that extremism has "nothing to do with Islam"—I ask only that you sit with the discomfort. The truth is rarely comfortable.
 
 ---
 
-*[Your City, Your Country]*  
-*[Month, Year]*
+*Vilnius, Lithuania*  
+*November 2025*
