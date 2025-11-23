@@ -29,9 +29,9 @@ If you find this work valuable, please consider supporting future research:
 
 ---
 
-First Edition: November 2025
 
 **Published by**: Self-published (Open Source)  
-**Source code**: [github.com/Algiras/the-shadow-of-extremism](https://github.com/Algiras/the-shadow-of-extremism)
+**Source code**: [github.com/Algiras/the-shadow-of-extremism](https://github.com/Algiras/the-shadow-of-extremism)  
+**Version**: `{{< meta git-sha >}}` ([View commit](https://github.com/Algiras/the-shadow-of-extremism/commit/{{< meta git-sha >}}))
 
 *Disclaimer: This book is a work of non-fiction. The views expressed are those of the author and do not necessarily reflect the official policy or position of any other agency, organization, employer, or company.*

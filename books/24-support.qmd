@@ -8,24 +8,44 @@ This book is published **free of charge** because knowledge about extremism, his
 - **Global Accessibility**: Readers in conflict zones often can't afford books
 - **Open Research**: Free sharing accelerates understanding and discussion
 
+## Current Funding Goal: Audiobook Production
+
+I'm raising **€5,000** to produce a professional audiobook version of this book using ElevenLabs AI narration. This will make the content accessible to:
+- Commuters and busy professionals
+- Visually impaired readers
+- People with learning disabilities (dyslexia, ADHD)
+- Listeners in regions with limited literacy
+
+**Progress**: €0 / €5,000 (0%)
+
+Once funded, the audiobook will be released **free** under the same Creative Commons license.
+
 ## How You Can Support
 
 If you found this work valuable, here are ways you can help:
 
-### 💰 Financial Support
-
 Your support helps fund:
+- **Audiobook production** (narration, editing, hosting)
 - Research time for future updates  
 - Translation into other languages  
 - Free distribution to schools and libraries  
 - Hosting costs for the online version
 
-**Donation Options:**
-- [GitHub Sponsors](https://github.com/sponsors/Algiras) (Recommended - no fees)
-- [Buy Me a Coffee](https://buymeacoffee.com/yourusername)
-- [PayPal](https://paypal.me/yourusername)
-- **Bitcoin**: `your_btc_address_here`
-- **Ethereum**: `your_eth_address_here`
+### 💰 Donation Platforms
+
+**Recommended (Lowest Fees)**:
+- **[GitHub Sponsors](https://github.com/sponsors/Algiras)** - 0% fees, recurring or one-time
+- **[Buy Me a Coffee](https://buymeacoffee.com/algiras)** - 5% fee, simple one-click donations
+- **[Ko-fi](https://ko-fi.com/algiras)** - 0% fees on one-time, 5% on monthly
+
+**Alternative Options**:
+- **[PayPal](https://paypal.me/algiras)** - ~3% fees, widely accepted
+- **[Patreon](https://patreon.com/algiras)** - Best for monthly supporters (5-12% fees)
+
+**Cryptocurrency** (0% fees, instant):
+- **Bitcoin**: `bc1q...` (add your address)
+- **Ethereum**: `0x...` (add your address)
+- **Monero**: `4...` (privacy-focused option)
 
 ### 📚 Non-Financial Support
 
