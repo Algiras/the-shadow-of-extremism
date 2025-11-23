@@ -2,6 +2,8 @@
 
 A comprehensive exploration of Islamic extremism through history, ideology, and pathways to reform.
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-yellow?logo=buy-me-a-coffee)](https://buymeacoffee.com/algiras)
+
 **📖 [Read Online](https://algiras.github.io/the-shadow-of-extremism/)** | **📥 [Download PDF](https://github.com/Algiras/the-shadow-of-extremism/releases)**
 
 ## About
