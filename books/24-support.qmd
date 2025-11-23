@@ -31,21 +31,21 @@ Your support helps fund:
 - Free distribution to schools and libraries  
 - Hosting costs for the online version
 
-### 💰 Donation Platforms
+### 💰 Support the Audiobook
 
-**Recommended (Lowest Fees)**:
-- **[GitHub Sponsors](https://github.com/sponsors/Algiras)** - 0% fees, recurring or one-time
-- **[Buy Me a Coffee](https://buymeacoffee.com/algiras)** - 5% fee, simple one-click donations
-- **[Ko-fi](https://ko-fi.com/algiras)** - 0% fees on one-time, 5% on monthly
+**[☕ Buy Me a Coffee](https://buymeacoffee.com/algiras)** - Simple one-time donations
 
-**Alternative Options**:
-- **[PayPal](https://paypal.me/algiras)** - ~3% fees, widely accepted
-- **[Patreon](https://patreon.com/algiras)** - Best for monthly supporters (5-12% fees)
+Every contribution helps fund the professional audiobook production. No account required - just click and donate!
 
-**Cryptocurrency** (0% fees, instant):
-- **Bitcoin**: `bc1q...` (add your address)
-- **Ethereum**: `0x...` (add your address)
-- **Monero**: `4...` (privacy-focused option)
+---
+
+**More Options Coming Soon**:
+- GitHub Sponsors (recurring support)
+- PayPal (familiar platform)
+- Cryptocurrency (privacy-focused)
+
+Check back for additional payment methods as we expand financing capabilities.
+
 
 ### 📚 Non-Financial Support
 
