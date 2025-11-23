@@ -4,6 +4,7 @@ ISIS recruited more fighters with memes than with theology.
 
 The battlefield of the 21st century is not just a desert in Syria or a mountain in Afghanistan; it is a server farm in Silicon Valley and a smartphone in a teenager's bedroom. The "Virtual Caliphate" is the most resilient territory ISIS ever conquered, and unlike Mosul or Raqqa, it cannot be bombed into submission.
 
+::: {.callout-note}
 ## Key Takeaways
 
 📌 **The Big Idea**: The "Virtual Caliphate" is a digital ecosystem that survives the loss of physical territory, using algorithms and memes to recruit the "Netflix Generation."
@@ -16,6 +17,7 @@ The battlefield of the 21st century is not just a desert in Syria or a mountain 
 🔄 **The Cycle Connection**: The digital space accelerates the **Indoctrination Phase**, moving recruits from curiosity to conviction in days rather than months.
 
 💡 **Counterintuitive Insight**: ISIS didn't recruit by preaching theology; they recruited by mimicking *Call of Duty* and Hollywood action movies.
+:::
 
 ## The Virtual Caliphate: Surviving the Loss of Territory
 

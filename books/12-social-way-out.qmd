@@ -4,6 +4,7 @@ The most successful de-radicalization program in history was run by... Singapore
 
 While Western nations struggle with recidivism, this small island nation has achieved a remarkable success rate by treating radicalization not as a crime, but as a virus. Theology is necessary, but not sufficient. De-radicalization is not just a debate in a classroom; it is a social, psychological, and political process.
 
+::: {.callout-note}
 ## Key Takeaways
 
 📌 **The Big Idea**: De-radicalization requires addressing the "Three Pillars": **Needs** (significance), **Narratives** (ideology), and **Networks** (social belonging).
@@ -16,6 +17,7 @@ While Western nations struggle with recidivism, this small island nation has ach
 🔄 **The Cycle Connection**: De-radicalization is about **Reversing the Cycle**—breaking the isolation and providing a new path to significance.
 
 💡 **Counterintuitive Insight**: The most effective de-radicalization tool isn't a theological debate—it's a job and a mentor.
+:::
 
 ## The Science of De-Radicalization: Kruglanski's Three Pillars
 
