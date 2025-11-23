@@ -33,6 +33,11 @@ jobs:
         run: |
           quarto install tinytex --update-path
 
+      - name: Inject Git SHA
+        run: |
+          SHA=$(git rev-parse --short HEAD)
+          sed -i "s/git-revision: .*/git-revision: \"$SHA\"/" books/_quarto.yml
+
       - name: Render Book (HTML for GitHub Pages)
         run: |
           cd books
