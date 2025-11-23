@@ -1,263 +1,251 @@
 
-Forensic Bibliographic and Historical Audit: The Shadow of Extremism: A Journey Through History, Ideology, and the Path to Reform (2025)
+CRITICAL MANUSCRIPT AUDIT: "THE SHADOW OF EXTREMISM"
 
 
-Executive Summary
+Executive Assessment and Strategic Overview
 
-The manuscript under review, The Shadow of Extremism: A Journey Through History, Ideology, and the Path to Reform (dated November 22, 2025), presents an ambitious synthesis of 1,400 years of Islamic history, theology, and contemporary geopolitics. Authored by Algimantas Krasauskas, the text attempts to construct a "Big Cycle" theory of religious radicalization, positing that extremism is a predictable symptom of imperial decline—a framework ostensibly borrowed from macro-historian Ray Dalio. The document traverses a vast terrain, from the tribal dynamics of 7th-century Arabia to the algorithmic radicalization of Gen Z on TikTok in 2025.
-This forensic audit, conducted by a specialist in radicalization studies and Islamic history, evaluates the document’s reliability, bibliographic integrity, and historical accuracy. The analysis reveals a text of starkly bifurcated quality. The sections addressing contemporary digital extremism (the "Virtual Caliphate"), the sociological mechanics of ISIS governance (specifically the role of women), and the technological repression in modern Iran are characterized by high accuracy and engagement with verifiable, recent intelligence. Conversely, the historical and theological sections are marred by significant errors of attribution, terminological conflation, and theoretical overreach.
-Most critically, the audit identifies a severe bibliographic error that fundamentally distorts the ideological genealogy of the Muslim Brotherhood: the misattribution of a radical 1995 manifesto by Mustafa Mashhur to the movement’s founder, Hassan al-Banna, who died nearly half a century earlier. Additionally, the text conflates distinct historical events in South Asia (the 1990 police firing in Ayodhya vs. the 1992 demolition riots), creating a hybrid narrative that is historically inaccurate. These errors are not merely pedantic; they compromise the document’s core thesis regarding the evolution of Islamist thought.
-This report provides a granular, chapter-by-chapter forensic analysis, distinguishing between the document’s reliable contributions to the discourse on digital radicalization and its flawed historical reconstructions. It is intended to guide policymakers, scholars, and general readers in navigating the text’s mixed reliability.
+The manuscript "The Shadow of Extremism: A Journey Through History, Ideology, and the Path to Reform" by Algimantas Krasauskas represents a highly ambitious, multidisciplinary effort to synthesize the historical, theological, and psychological dimensions of religious extremism.1 The author’s stated objective—to provide an exhaustive and nuanced report that eschews both Islamophobic tropes and apologetic deflection—is a formidable challenge that the manuscript meets with varying degrees of success. The text demonstrates a sophisticated grasp of complex Islamist jurisprudence, particularly in its treatment of the "Mardin Fatwa" and the distinction between Hassan al-Banna and Mustafa Mashhur, areas where many Western analysts frequently falter.
+However, a rigorous forensic audit reveals critical vulnerabilities that threaten the credibility of the entire project. While the historical analysis is generally robust, the psychological and scientific underpinnings of Part III are deeply flawed, relying on debunked experiments and pseudoscientific theories that have been widely rejected by the academic community. Specifically, the reliance on the "Stanford Prison Experiment" and Mattias Desmet’s "Mass Formation Psychosis" constitutes a significant vector for disinformation. These inclusions effectively "poison the well"; a sophisticated reader who identifies these errors—which are well-known in academic circles—will likely discard the accurate historical analysis that precedes them. Furthermore, the manuscript suffers from catastrophic structural errors in the final third, specifically regarding chapter numbering and organization. The presence of duplicate chapter numbers and a disjointed flow in Part III suggests a lack of final editorial oversight that degrades the perceived professionalism of the work.
+This report dissects the manuscript across three dimensions: Structural Integrity, Historical & Theological Accuracy, and Scientific Validity. The assessment identifies specific inconsistencies, potential misinformation, and logical flow issues that must be remediated to ensure the book is viewed as trustworthy. It integrates external forensic research to validate or refute specific claims made within the text, providing a roadmap for the necessary revisions to elevate the manuscript from a flawed draft to an authoritative reference.
 
-1. Provenance, Authorship, and Methodological Assessment
+Part I: Structural and Logical Integrity Audit
 
 
-1.1 The Author Profile and Credibility
+The Duplicate Chapter Catastrophe and Thematic Dislocation
 
-The author is identified as Algimantas Krasauskas, an independent researcher described in the document’s "About the Author" section as focused on the intersection of religion, extremism, and geopolitics. A forensic search of available academic and professional databases yields no record of a scholar by this name in the fields of security studies, Islamic jurisprudence, or Middle Eastern history. Instead, public records link the name to technical writing in software development—specifically regarding Finite State Machines and Scala programming—and educational administration in Canada.1
-This discrepancy suggests the work is the product of an autodidact or independent enthusiast rather than a subject-matter expert trained in the rigorous methodologies of historiography or theology. This non-specialist background explains the text’s specific vulnerability: while it excels at synthesizing accessible contemporary data (news reports, UN findings), it falters significantly when handling primary Arabic sources or complex historiographical debates, leading to the misattributions detailed in Section 2. The document functions less as original research and more as a compendium of narratives, aggregating widely known historical touchpoints into a cohesive story—a methodology that risks stripping events of their specific, granular contexts.
+The most immediate and glaring indicator of an "inferior" product is the structural breakdown in Part III. The manuscript currently contains duplicate chapter numbers, creating confusion and disrupting the logical flow of the argument. The manuscript introduces Chapter 13: The Psychology of Obedience, followed by Chapter 14: The Economics of Terror, and Chapter 15: The Future of Hate.1 However, immediately following these, the text resets and introduces a second Chapter 14: The Saffron Robe: Buddhism and the 969 Movement and a second Chapter 15: The Army of God: Christian Extremism.1 This is followed by Chapter 16: The Saffron Wave: Hindutva and the Mob.
+This numbering error is not merely cosmetic; it signals a profound disruption in the thematic organization of the work. The first set of Chapters 13-15 deals with mechanisms—specifically Psychology, Economics, and Future Technology—while the second set (Chapters 14-16) deals with comparative extremism across Buddhism, Christianity, and Hinduism. The transition from "The Future of Hate," which deals with AI, the Metaverse, and drone swarms 1, back to "The Saffron Robe," which deals with historical Buddhist nationalism and colonial grievances in Sri Lanka, is jarring and chronologically incoherent. The reader is asked to contemplate the futuristic implications of deepfakes and bio-terror, only to be pulled back to the colonial history of South Asia in the very next chapter without a bridging narrative.
+The comparative religion chapters logically belong before the synthesis on mechanisms, or as a distinct Part IV. Placing the "Future of Hate" before the historical analysis of non-Islamic extremism breaks the chronological and thematic arc. The current structure implies that the discussion of Islamic extremism is the primary focus, followed by a "mechanism" analysis, with other religions tacked on as an afterthought. A truly comparative study would integrate these earlier or group them to show the universality of the phenomenon before moving to the psychological and economic mechanics that underpin them all.
 
-1.2 The "Dalio Framework" and Theoretical Overreach
+The "Saffron" Nomenclature and Academic Derivative Risks
 
-The document’s central theoretical conceit is derived from Ray Dalio’s Principles for Dealing with the Changing World Order. The introduction posits a specific "Religious Cycle" mirroring Dalio’s economic "Big Cycle" of empires:
-The Rise (Prophetic Phase): Faith as a source of vitality and internal order.
-The Peak (Institutional Phase): Faith as a stabilizing state apparatus.
-The Decline (Weaponized Phase): Faith as a tool of manufactured unity in a dying empire.3
-Forensic Assessment: While intellectually stimulating, this application represents a significant theoretical overreach. Ray Dalio’s work (2021) focuses almost exclusively on economic determinism—debt cycles, currency devaluation, and the rise and fall of reserve currencies—alongside measures of internal and external conflict.4 Dalio discusses the rise of populism and extremism during the decline phase of an empire, but he does not articulate a specific "Prophetic -> Institutional -> Weaponized" religious cycle. The author appears to have superimposed a sociological model—likely derived from Ibn Khaldun’s concept of Asabiyyah (group solidarity) or Weberian theories of charisma—onto Dalio’s economic framework. By presenting this synthesis as "The Dalio Connection," the text misrepresents the source material, lending false economic authority to a theological argument. Readers should view this framework as the author’s own interpretive heuristic rather than an established economic theory.
+The manuscript uses the title "The Saffron Robe" for the chapter on Buddhism (Chapter 14b) and "The Saffron Wave" for the chapter on Hindutva (Chapter 16).1 While poetic, this creates a significant potential for confusion and accusations of derivativeness. "The Saffron Wave" is the exact title of a seminal academic work by Thomas Blom Hansen regarding Hindu Nationalism and democracy.2 Hansen's work, published by Princeton University Press, is a cornerstone text in the study of the BJP and the RSS. Using this exact phrase as a chapter title for Hindutva is acceptable only if Hansen is explicitly cited and the homage is intentional. However, pairing it with "The Saffron Robe" for Buddhism risks conflating two distinct religious nationalist movements in the reader's mind.
+While both movements utilize the color saffron as a symbol of religious purity and identity, the political dynamics of Theravada Buddhist nationalism in Myanmar and Hindutva in India are distinct. The former is monastic-led (the Sangha), while the latter is largely led by lay organizations (the RSS).3 The similarity in titles suggests a laziness in nomenclature that betrays the nuance the book claims to uphold. A reader familiar with South Asian political science will immediately recognize the "Saffron Wave" title and may view the author's usage as unoriginal or lacking in citation.
 
-2. Theological and Bibliographic Forensic Analysis
+Part II: Scientific Validity and Psychological Misinformation
 
-The document’s most serious flaws lie in its handling of primary Islamist texts. In an attempt to trace the "Ideology of Exclusion" (Chapter 5) and the "Colonial Wound" (Chapter 4), the author relies on secondary citations that lead to catastrophic errors of attribution.
+This section represents the most critical failure of the manuscript. In an attempt to explain the mechanism of extremism, the author relies on psychological theories that have been scientifically discredited or are mired in significant controversy. This undermines the book's authority and risks alienating informed readers.
 
-2.1 The "Jihad is the Way" Misattribution (Critical Error)
+The "Mass Formation Psychosis" Liability
 
-In Chapter 4, the document attempts to establish the militant foundations of the Muslim Brotherhood. It attributes a treatise titled "Jihad is the Way" to Hassan al-Banna, the movement’s founder (d. 1949). The Source Index explicitly lists: "Hassan al-Banna - Jihad Treatise... Cited in Mitchell, Richard P.".3
-The Historical Reality: This attribution is factually incorrect and chronologically impossible. The book Jihad is the Way (Al-Jihad huwa al-Sabil) is a seminal text of the Muslim Brotherhood, but it was written by Mustafa Mashhur, the movement’s fifth General Guide, and was published in 1995—46 years after Al-Banna’s assassination.6 Mashhur served as the General Guide from 1996 to 2002, a period characterized by the globalization of Islamist militancy.
-Implications of the Error: This is not a trivial bibliographic slip; it fundamentally distorts the historical trajectory of Islamist ideology.
-Hassan al-Banna’s actual writings: Al-Banna did write on jihad, most notably in Risalat al-Jihad (The Epistle on Jihad). However, his work was deeply contextualized by the anti-colonial struggle against the British occupation of Egypt and the Zionist settlement of Palestine in the 1930s and 40s.8 While militant, it was primarily nationalist and anti-imperialist in scope.
-Mustafa Mashhur’s 1995 text: Mashhur’s Jihad is the Way represents a radical departure. Written in the 1990s, after the Qutbist radicalization of the 1960s and the Afghan Jihad of the 1980s, it explicitly calls for global Islamic conquest and the re-establishment of the Caliphate in terms that bridge the gap between the Brotherhood’s traditionalism and Al-Qaeda’s global jihadism.9 It reflects the hardened, post-Qutb ideology of the "Secret Apparatus" wing of the Brotherhood.
-By attributing Mashhur’s later, globally ambitious manifesto to the founder Al-Banna, the document commits a teleological error: it presents the Brotherhood as fully radicalized and globally oriented from its inception, erasing the critical decades of ideological evolution, internal debate, and the pivotal shift caused by Sayyid Qutb’s torture in Nasser’s prisons. This flattens history and obscures the specific mechanisms by which a social reform movement morphed into a incubator for global jihad.
+In Chapter 13, the author introduces the concept of "Mass Formation Psychosis" to explain how societies go mad, attributing the theory to Professor Mattias Desmet.1 The text describes it as a state where a lack of social bonds and free-floating anxiety lead a crowd to enter a hypnotic state under a leader, rendering them willing to destroy their own families.
 
-2.2 Ibn Taymiyyah and the Mardin Fatwa (Verified Accuracy)
+The Scientific Consensus vs. The Manuscript
 
-Conversely, the document’s treatment of medieval theology in Chapter 3 is surprisingly robust. It discusses Ibn Taymiyyah’s famous "Mardin Fatwa," issued during the Mongol invasions. The text correctly identifies that Ibn Taymiyyah created a novel theological category, Dar Murakkab (Composite Domain), to describe the city of Mardin—a territory ruled by Mongols who had converted to Islam but continued to apply their traditional Yassa legal code instead of Sharia.3
-Forensic Verification: This analysis aligns with high-quality modern scholarship. The document correctly cites Yahya Michot (2006) as the primary source for this interpretation.11 Michot is a leading scholar who has argued that Ibn Taymiyyah’s fatwa was actually a nuanced attempt to prevent indiscriminate violence, by acknowledging a middle ground between the "Abode of Islam" and the "Abode of War." The document accurately notes that modern extremists have stripped away this nuance to justify Takfir (excommunication) against any ruler who does not apply Sharia perfectly—a distortion known as the "Mardin deviation." The accuracy here suggests the author accessed Michot’s specific translations, contrasting sharply with the negligence shown in the Al-Banna section.
+The inclusion of this theory is a major liability. "Mass Formation Psychosis" is not a widely accepted psychiatric or psychological concept. It is a controversial theory popularized during the COVID-19 pandemic to argue that populations were "hypnotized" into accepting vaccines and lockdowns.8
 
-2.3 The "Yellow Star" and the Pact of Umar (Verified Accuracy)
+Aspect
+Manuscript Claim
+Scientific Reality
+Theory Name
+Mass Formation Psychosis (attributed to Mattias Desmet) 1
+Term is widely flagged as pseudoscience; Desmet himself sometimes disavows the "psychosis" label but the concept remains controversial.8
+Mechanism
+Collective trance induced by anxiety and lack of meaning 1
+Critics argue it ignores rational choice, social identity theory, and creates a "zombie" narrative that strips agency from actors.11
+Academic Status
+Presented as a valid psychological explanation for extremism 1
+Widely rejected by mainstream psychology; associated with fringe COVID-19 skepticism and promoted by figures like Robert Malone.12
 
-Chapter 7 ("The Other") traces the history of discriminatory dress codes for non-Muslims (Dhimmis). It correctly identifies the Abbasid Caliph Al-Mutawakkil (r. 847–861 CE) as the ruler who institutionalized the "Badge of Shame." The text states that Al-Mutawakkil ordered Jews and Christians to wear "honey-colored patches" (ghiyar) on their chests and backs—a direct historical antecedent to the Nazi Yellow Star.3
-Forensic Verification: This is historically accurate. While the earlier Caliph Umar II is often credited with introducing differentiation laws, it was Al-Mutawakkil who issued the specific decree in 850 CE mandating the wearing of honey-colored hoods and patches to enforce visual segregation.13 The document also correctly references the Zunnar (belt) as a mandatory item. This section demonstrates a solid grasp of the legal history of the Dhimma pact.
+The danger of citing Mattias Desmet is two-fold. First, it aligns the book with a specific subset of anti-establishment narratives regarding the pandemic, which may alienate readers looking for objective analysis of terrorism. Second, it signals a lack of engagement with rigorous social psychology. A serious researcher in 2025 would cite established social identity theories (like Tajfel, which the author does cite in the intro) or recognized theories of collective behavior (like Reicher/Haslam) rather than a viral, politically charged, and scientifically dubious concept. The snippet evidence suggests that "Mass Formation Psychosis" is often used as a rhetorical tool to discredit scientific consensus rather than explain it.11 By adopting this terminology, the author risks the book being categorized as "conspiratorial" rather than "analytical."
 
-3. Historical Chronology and Event Analysis
+The "Stanford Prison Experiment" Debunking
 
-The document aims to provide "Historical Contextualization" for modern grievances. However, this ambition is undermined by terminological conflations in South Asian history and chronological inaccuracies regarding key events in the ISIS conflict.
+In the same chapter (Chapter 13), the manuscript cites the Stanford Prison Experiment (SPE) as definitive proof that "roles" cause brutality.1 The author writes: "The Lesson: It wasn’t the personality of the students that made them cruel; it was the situation... The role consumes the person".1
 
-3.1 The "Ayodhya Massacre" Conflation (High Inaccuracy)
+The Historical Fraud
 
-In the Introduction and the section "The Universal Pattern: Identity as a Weapon," the text states: "In 1992, a mob of Hindu nationalists destroyed the Babri Masjid in Ayodhya... The ensuing riots killed over 2,000 people... The Ayodhya Massacre.".3
-Forensic Verification: The text conflates two distinct historical events into a single, confusing narrative label.
-The "Ayodhya Massacre" (1990): In historical and political discourse, the term "Ayodhya Massacre" specifically refers to the events of October 30 and November 2, 1990. On these dates, police under the orders of the Uttar Pradesh Chief Minister Mulayam Singh Yadav opened fire on Kar Sevaks (Hindu volunteers) who were attempting to march on the Babri Masjid. The official death toll was around 17, though Hindu nationalist sources claimed significantly higher numbers.16 This was an act of state violence against Hindu activists.
-The Babri Masjid Demolition (1992): Two years later, on December 6, 1992, a mob successfully demolished the mosque. This act itself did not result in a "massacre" at the site in the way the 1990 event did. Instead, the demolition triggered massive, nationwide communal riots (the Bombay Riots, etc.) over the following weeks, which resulted in approximately 2,000 deaths, mostly Muslims.17
-Implications: By labelling the 1992 demolition the "Ayodhya Massacre," the author confuses the 1990 police shooting (state vs. Hindus) with the 1992 mob action (Hindus vs. Mosque) and the subsequent riots (Hindus vs. Muslims). This conflation betrays a lack of regional expertise and simplifies a complex timeline of escalating violence into a single "universal" data point. It obscures the fact that the 1992 violence was largely urban rioting triggered by the event in Ayodhya, not a massacre at Ayodhya itself.
+This narrative is outdated and considered factually incorrect by modern psychology. The Stanford Prison Experiment has been effectivey debunked as fraudulent or at least deeply scientifically flawed, a fact that the manuscript completely ignores.
+The Coaching Revelation: Recent archival research by Thibault Le Texier (published in English around 2019-2020) revealed that Philip Zimbardo and his assistants explicitly coached the guards on how to be cruel.14 They were not passive observers; they were active directors. The "Warden" (David Jaffe) gave specific instructions to the guards to be "tough" and to create feelings of powerlessness.18 The brutality was not a spontaneous result of "roles" but a result of obedience to instructions from the authority figure.
+Faked Breakdowns: The "prisoner" who notoriously screamed and had a breakdown (Douglas Korpi) later admitted he was faking it. He was not traumatized by the prison conditions; he was trying to get released so he could study for his Graduate Record Exams (GREs).17 When his initial requests were denied, he staged a dramatic fit to force a release.
+Academic Consensus: By 2024/2025, reputable psychology textbooks and associations were moving away from teaching the SPE as a valid demonstration of situational power, viewing it instead as a demonstration of demand characteristics (participants doing what they think the researcher wants).19
+Presenting the SPE as an unvarnished "truth" about human nature in 2025 is a marker of lazy research. It signals that the author is reciting pop-psychology myths rather than engaging with current scientific literature. A "nuanced" book would acknowledge the controversy surrounding the SPE, perhaps using it to discuss how narratives about science can be manipulated, rather than using the experiment itself as proof.
 
-3.2 The Execution of Mu'ath al-Kasasbeh (Chronological Inaccuracy)
+The "Milgram Experiment" and the Agentic State
 
-In Chapter 6 and the Introduction, the text vividly describes the execution of the Jordanian pilot Mu'ath al-Kasasbeh: "On a warm February morning in 2015, Mu'ath al-Kasasbeh... was burned alive in a cage... The video of his execution was... distributed globally.".3
-Forensic Verification: While the propaganda video Healing the Believers' Chests was indeed released on February 3, 2015, intelligence assessments and the Jordanian government later confirmed that al-Kasasbeh had actually been executed a full month earlier, on January 3, 2015.20
-Implications: This chronological discrepancy is crucial for understanding ISIS’s operational strategy. Throughout January 2015, ISIS engaged in deceptive negotiations, demanding the release of the failed suicide bomber Sajida al-Rishawi in exchange for the pilot’s life. By negotiating for a prisoner swap involving a man they had already killed, ISIS demonstrated the cynical "psychological warfare" central to their "Management of Savagery" doctrine. By stating he was "burned alive on a warm February morning," the document inadvertently adopts the ISIS propaganda timeline rather than the historical reality, missing an opportunity to analyze the group’s manipulative statecraft.
+The author also cites the Milgram Experiment and the "Agentic State" theory.1 While Milgram is more scientifically robust than Zimbardo, modern re-evaluations suggest that obedience wasn't just about "following orders." Participants obeyed when they believed in the scientific mission (identified with the experimenter) but actually disobeyed when given direct orders (like "You have no other choice, you must go on"). This "Engaged Followership" model (advocated by researchers like Haslam and Reicher) fits the book's thesis about ideology better than the "Agentic State" model the author uses. The author misses a chance for deeper insight here by sticking to the outdated 1960s interpretation.
 
-3.3 The Crusades: "Colored to Our Ankles" (Verified Accuracy)
+Part III: Theological and Historical Audit
 
-In Chapter 3, the document quotes the chronicler Fulcher of Chartres regarding the 1099 Siege of Jerusalem: "Indeed, if you had been there you would have seen our feet colored to our ankles with the blood of the slain.".3
-Forensic Verification: This citation is accurate. Fulcher of Chartres, a chaplain who accompanied the First Crusade, wrote in his Historia Hierosolymitana: "In templo et porticu Salomonis equitabatur in sanguine usque ad genua et usque ad frenos equorum" (In the Temple and porch of Solomon, men rode in blood up to their knees and bridle reins). The specific phrasing "colored to our ankles" (usque ad talos) appears in various translations and manuscripts describing the scene at the Al-Aqsa mosque.22 The document accurately reflects the vivid, apocalyptic imagery used by contemporary chroniclers to describe the massacre.
+In contrast to the psychological section, the historical and theological analysis is generally high-quality, demonstrating a deep engagement with primary sources. However, there are specific areas where "inconsistencies" or "misinformation" could be alleged by hostile reviewers if not clarified.
 
-3.4 The Cypress of Kashmar (Verified Accuracy)
+1. The "Mardin Fatwa" Misprint Claim
 
-In Chapter 7, the text recounts the felling of the sacred Cypress of Kashmar by the Abbasid Caliph Al-Mutawakkil in 861 CE. It describes this as a "symbolic act of cultural decapitation" against Zoroastrians, noting that the tree was planted by Zoroaster himself and was felled to be used in the Caliph's new palace.3
-Forensic Verification: This obscure historical detail is accurate. The Cypress of Kashmar (Sarv-e Kashmar) is a legendary tree in Zoroastrian and Persian tradition. Historical accounts confirm that Al-Mutawakkil ordered the tree cut down and transported to Samarra for his palace construction, ignoring the pleas and bribe offers of the local Zoroastrian community. The irony noted in historical sources—that Al-Mutawakkil was assassinated by his own guards before the wood could arrive—is a poignant detail often cited in Persian historiography.24 The inclusion of this event adds significant depth to the document’s analysis of the suppression of pre-Islamic Persian culture.
+The manuscript claims that the "Mardin Fatwa" of Ibn Taymiyyah contained a "misprint" that changed "treated" (yu'amal) to "fought" (yuqatal), and that this was the "smoking gun" for modern jihadism.1
+Verification: This is a specific argument advanced by Sheikh Abdullah bin Bayyah and Yahya Michot at the 2010 New Mardin Conference.22 They utilized manuscript evidence (specifically the Zahiriyya manuscript) to argue that the text was corrupted in the printed edition of the Majmu' al-Fatawa around 1909.
+Critique: While accurate to the reformist narrative, presenting it as an absolute fact that "extremists rely on a misprint" is a simplification. Extremists do not rely solely on the Mardin Fatwa, nor solely on that one sentence. They rely on Ibn Taymiyyah’s broader corpus regarding the Mongols, particularly the third anti-Mongol fatwa and the concept of Tatarrus (human shields).
+Risk: Critics might argue the author is pinning the entire phenomenon of Takfir on a single typo, which risks trivializing the depth of the ideological commitment held by groups like ISIS. It frames 70 years of jihadist theory as a "copy-paste error," which, while rhetorically powerful, may be analytically insufficient. The report should clarify that while the misprint exists, the ideology is robust enough to survive its correction.
 
-4. Digital and Contemporary Analysis: The Report’s Strength
+2. The "Jihad is the Way" Attribution
 
-In sharp contrast to the historical inaccuracies, the report’s handling of contemporary (2014–2025) digital extremism, Iranian state surveillance, and the sociology of the "Virtual Caliphate" is remarkably robust. The author appears to have accessed high-quality open-source intelligence (OSINT) and recent human rights reports, resulting in a high-fidelity picture of modern radicalization.
+The book correctly distinguishes between Hassan al-Banna and Mustafa Mashhur regarding the authorship of Jihad is the Way.1
+Insight: This is a strong point. Many Western analysts falsely attribute this text to Banna. Identifying Mashhur as the author and the bridge to global jihad 28 demonstrates expert-level knowledge. Mashhur's text explicitly calls for the re-establishment of the Caliphate and global conquest, differing significantly from Banna's more nationalist and spiritual focus. Highlighting this distinction refutes the "Islamophobic narrative" that conflates all Brotherhood eras, while also refuting the "Apologist narrative" that claims the Brotherhood was never violent.
 
-4.1 The "Nazer" App and Algorithmic Repression in Iran (Highly Verified)
+3. The "Treaty of Najran" Text
 
-Chapter 10 ("Collision with Modernity") provides a detailed examination of the "Nazer" (Observer) mobile application used by the Iranian regime to enforce mandatory hijab laws. The document claims the app:
-Allows "vetted civilians" to report non-compliant women.
-Uses license plate recognition.
-Triggers automatic SMS warnings to vehicle owners.
-Threatens vehicle impoundment for repeat offenses.3
-Forensic Verification: These details are extensively corroborated by UN Fact-Finding Missions and Amnesty International reports from 2024 and 2025. The specific mechanism of the "real-time text message" warning, the involvement of ordinary citizens as "hijab monitors," and the expansion of surveillance to include taxis and ambulances are all documented facts.26 The report correctly identifies this as a form of "state-sponsored vigilantism" empowered by Silicon Valley-style technology. This section provides a sophisticated analysis of how authoritarian regimes weaponize digital tools for social control.
+The citation of the Treaty of Najran, specifically the clause "no bishop shall be removed," is historically grounded in standard Islamic historiography (e.g., Ibn Ishaq, Ibn Hisham).33
+Critique: The author presents this as evidence of "Foundations of Faith" (Chapter 1). A cynic might argue this is "cherry-picking" the lenient treaties while ignoring the expulsion of the Jewish tribes (Qaynuqa, Nadir) which happened before Najran. However, the author does address the Banu Qurayza incident in Chapter 2 1, which provides the necessary balance. This section is robust and well-sourced.
 
-4.2 The Al-Khansaa Brigade: Privileges of the Oppressor (Verified with Nuance)
+4. The "Golden Age" Idealization and the Mutazilites
 
-Chapter 8 ("Shadows Over Society") discusses the Al-Khansaa Brigade, ISIS’s all-female morality police in Raqqa. The document notes a specific paradox: "Unlike civilian women, Al-Khansaa members were allowed to drive vehicles, carry weapons, handcuffs, and transceivers.".3
-Forensic Verification: This specific detail—that joining the brigade offered women an escape from the very restrictions they enforced on others—is accurate and supported by defector testimonies and research by the International Centre for the Study of Radicalisation (ICSR). Sources confirm that Al-Khansaa members were granted exceptional privileges, including the right to drive and carry firearms, creating a perverse incentive structure that empowered women to become agents of their own gender's subjugation.30 The document’s analysis of this "privilege of cruelty" is a sophisticated sociological insight.
+In Chapter 1 and Chapter 11, the author leans heavily on the "Islamic Golden Age" as the "default state" of Islam.1
+The Potential Misrepresentation: "Extremism is not a disease. It is a symptom... Extremism is not Islam's natural form".1
+Analysis: This is a theological/philosophical claim, not a historical one. A historian might argue that "orthodoxy" and "heterodoxy" have always struggled. The "rationalist" Mutazilites cited by the author 1 were actually an elite minority who persecuted traditionalists (the Mihna or Inquisition) when they had power. The book presents the Mutazilites as liberal heroes ("The Empire of Reason") without mentioning they also used state torture to enforce their rationalism on scholars like Ahmad ibn Hanbal.
+Risk: This creates a logical inconsistency. The author attacks the "Closing of the Gate of Ijtihad" as the start of the decline 1, but fails to acknowledge that the "Golden Age" rationalists were often just as authoritarian as the traditionalists they opposed. To be truly trustworthy, the manuscript should acknowledge the Mihna to show that intolerance was not the exclusive preserve of traditionalists.
 
-4.3 The "Cubs of the Caliphate" and Indoctrination (Verified)
+Part IV: Economic and Political Analysis Audit
 
-The report’s description of ISIS’s child soldier program, the "Cubs of the Caliphate" (Ashbal al-Khilafah), is graphically accurate. It describes curricula where "math problems involved counting bullets" and children were desensitized through "public viewing parties" of executions.3
-Forensic Verification: These details align with the comprehensive 2018 ICSR report "Cubs in the Lions’ Den" by Gina Vale, which the document correctly cites in its bibliography.31 The specific examples of educational weaponization (counting bullets) are documented in recovered ISIS textbooks. This section effectively highlights the intergenerational threat posed by the group’s ideology.
 
-5. Comparative Extremism: The "Mad Dog" Quote
+The 9/11 ROI Calculation Error
 
-The document attempts to universalize the phenomenon of extremism by citing Buddhist violence in Myanmar. It attributes the quote "Muslims are mad dogs" to the extremist monk Ashin Wirathu.3
-Forensic Verification: This quote is verified. Ashin Wirathu, the leader of the 969 Movement, has repeatedly used dehumanizing language against the Rohingya. In a widely cited sermon and interview, he stated, "You can be full of kindness and love, but you cannot sleep next to a mad dog," explicitly referring to Muslims.33 The document accurately uses this to demonstrate that dehumanization is a cross-cultural prerequisite for religious violence.
+The author claims: "9/11 cost Al-Qaeda $500,000. America’s response cost $7 trillion. Return on investment: 1,400,000%".1
+Verification:
+Cost of attack: The 9/11 Commission and other sources estimate the operational cost between $400,000 and $500,000.38
+Cost of response: The "Costs of War" project (Brown University) estimates the total US budgetary cost of post-9/11 wars to be roughly $8 trillion.39
+The Math: $7,000,000,000,000 (Response) / $500,000 (Cost) = 14,000,000 (Ratio).
+Percentage Calculation: To convert a ratio to a percentage, one multiplies by 100.
+$14,000,000 \times 100 = 1,400,000,000\%$ (1.4 billion percent).
+The Error: The author writes "1,400,000%". This figure is mathematically incorrect by a factor of 1,000.
+$500,000 \times 1,400,000\% = \$500,000 \times 14,000 = \$7,000,000,000$ ($7 billion).
+The actual damage was $7 trillion.
+Impact: This mathematical error, while hyperbolic in intent, undermines the "Economic of Terror" argument. It makes the author look innumerate and prone to exaggeration without verification. The actual number (1.4 billion percent) is far more staggering and supports the author's thesis better, but the incorrect calculation damages credibility.
 
-6. Structural and Bibliographic Integrity
+The "Aarhus Model" Statistics
 
-The document includes a bibliography and source index. A forensic check reveals a mixed record.
+The book cites a drop in foreign fighters from "30 in 2013 to 1 in 2014" due to the Aarhus model.1
+Verification: This specific statistic is widely cited in reports on the Aarhus model (e.g., from the East Jutland police commissioner).41 The rapid decline is attributed to the "soft" approach of mentoring and reintegration rather than prosecution.
+Verdict: Accurate.
 
-Citation/Claim
-Forensic Verdict
-Notes
-R.B. Serjeant - Constitution of Medina
+The "Trojan T-Shirt" Operation
+
+The manuscript describes the EXIT-Deutschland operation where T-shirts distributed at a neo-Nazi festival revealed a hidden message after washing.1
+Verification: This operation is well-documented. In 2011, 250 T-shirts labeled "Hardcore Rebels" were distributed. Upon washing, the slogan changed to "What your T-shirt can do, so can you - we'll help you break with right-wing extremism".45
+Verdict: Accurate and an excellent example of creative counter-narrative work.
+
+The 969 Movement Numerology
+
+The manuscript explains the 969 vs. 786 numerology, claiming 7+8+6=21, which extremists interpret as a Muslim plot to conquer in the 21st century.1
+Verification: This is a precise description of the conspiracy theory propagated by Ashin Wirathu and the 969 Movement. The number 786 is the abjad numeral value of the Basmala in Islam, but Buddhist nationalists in Myanmar have indeed weaponized the "sum of 21" theory to claim a 21st-century conquest plot.55
+Verdict: Accurate and demonstrates deep regional research.
+
+Part V: Deep Insight and Synthesis
+
+
+The Core Contradiction of the "Machine"
+
+The manuscript's strongest conceptual contribution is the "Cycle of Extremism." However, the text exhibits a contradiction between its political thesis and its psychological thesis.
+Political Thesis: Extremism is a rational response to trauma, grievance, and state failure (Chapters 3, 4, 10).
+Psychological Thesis: Extremism is a form of "mass psychosis" or a "trance" caused by lack of meaning (Chapter 13).
+Insight: The manuscript attempts to have it both ways. If ISIS is a "rational" actor maximizing economic ROI (Chapter 14) and building a bureaucracy (Chapter 6), they cannot simultaneously be "hypnotized" victims of "Mass Formation Psychosis." The "Psychosis" theory strips agency from the actors, whereas the "State Building" theory grants them agency. The "Economics of Terror" chapter proves terrorists are rational actors responding to incentives (money, power, territory), while the "Psychology" chapter suggests they are zombies. The "Rational Choice" model is far more compelling and scientifically sound than the "Hypnosis" model. The author should likely abandon the "Psychosis" / Desmet angle entirely, as it contradicts the "rational actor" evidence presented elsewhere.
+
+The "Nuance" Trap and Moral Equivalence
+
+The author strives for nuance but occasionally falls into "Both-sidesism." For example, in comparing the Crusades and 9/11, the text risks creating a moral equivalence that some readers will reject.
+Text: "They burned us in 1099, so we are justified in burning them in 2001".1
+Critique: While the author presents this as the extremist's logic, the text spends considerable time detailing Crusader atrocities (ankle-deep blood) while treating Islamic conquests (e.g., the initial expansion) as relatively benign ("The Empire of Reason"). To be truly trustworthy, the book needs to acknowledge that the initial Islamic conquests were imperialist expansions, even if they were more tolerant than the Crusaders. The "Golden Age" section (Chapter 1) feels slightly romanticized compared to the gritty realism of the rest of the book.
+
+Part VI: Comparative Data Tables
+
+The following tables summarize the key data points requiring correction or clarification.
+Claim in Manuscript
+Verification Status
+Corrective Action
+9/11 ROI: 1,400,000%
+Incorrect Math
+Update to 1,400,000,000% (1.4 billion percent).
+Stanford Prison Exp. proves roles cause cruelty
+Debunked
+Acknowledge the fraud; discuss why the myth persists.
+Mass Formation Psychosis explains extremism
+Pseudoscience
+Remove Desmet; use Social Identity Theory or Fusion Theory.
+Mardin Fatwa "misprint" (yuqatal vs. yu'amal)
+Accurate but Contested
+Maintain but qualify: "Reformers argue it is a misprint."
+Aarhus Model: 30 fighters -> 1 fighter
 Accurate
-Serjeant is the definitive scholar on the "Sunnah Jami'ah" documents. The text correctly interprets his analysis of the Ummah as a political confederation.35
-Gina Vale - Cubs in the Lions' Den
+Keep as is.
+Mustafa Mashhur wrote "Jihad is the Way"
 Accurate
-Cited correctly in the context of child indoctrination. Vale is a recognized authority on this topic.31
-Yahya Michot - Ibn Taymiyyah
+Highlight this distinction from Banna clearly.
+Treaty of Najran protects bishops
 Accurate
-Cited for the translation of the Mardin Fatwa. Michot’s work is central to the modern understanding of this text.11
-Hassan al-Banna - Jihad Treatise
-CRITICAL ERROR
-Attributes the 1995 book Jihad is the Way by Mustafa Mashhur to Hassan al-Banna (d. 1949). This is a major historical falsification.6
-Ray Dalio - Religious Cycle
-Misleading
-Attributes a specific religious cycle theory to Dalio that does not exist in his economic work. This is an interpretive superimposition.4
-Ayodhya Massacre (1992)
-Inaccurate
-Conflates the 1990 police firing (massacre) with the 1992 demolition (riots). Terminologically imprecise.16
+Keep as is.
+969 vs 786 Numerology (Sum = 21)
+Accurate
+Keep as is.
 
 
-7. Recommendations for Use
+Part VII: Conclusion and Verdict
 
-This forensic audit leads to a nuanced conclusion regarding the utility of The Shadow of Extremism.
-For Contemporary Analysis: The report is highly reliable. Its chapters on the digital mechanisms of radicalization (Chapter 9), the governance of the "Virtual Caliphate," and the technological repression in Iran (Chapter 10) are factually sound, up-to-date, and supported by credible intelligence. These sections can be used to understand the current operational landscape of extremism.
-For Historical/Theological Reference: The report is compromised. The misattribution of the Jihad is the Way manifesto renders its analysis of the Muslim Brotherhood’s early ideology fundamentally flawed. Readers must not rely on Chapter 4 for historical accuracy regarding the Brotherhood’s foundational period. Similarly, the conflation of events in the Ayodhya narrative suggests a lack of precision in its comparative historical sections.
-For Theoretical Framework: The "Dalio Religious Cycle" should be treated as a speculative hypothesis by the author, not an established academic theory. While it provides a compelling narrative structure, it lacks empirical grounding in the economic literature it claims to cite.
-Final Verdict: The Shadow of Extremism is a vivid, persuasive, but uneven text. It captures the mood and mechanics of modern extremism with chilling accuracy but stumbles significantly when attempting to construct the historical genealogy of that extremism. It is best read as a work of contemporary political observation rather than authoritative history.
-
-Detailed Chapter Analysis & Revisions
-
-The following sections provide a detailed reconstruction of the report's narrative, integrating the forensic corrections and missing context identified above. This reconstruction maintains the author's original "Big Cycle" narrative voice but rigorously corrects the factual record.
-
-Chapter 1: Foundations of Faith (Revised)
-
-To understand the shadow, one must first understand the light that cast it. The history of Islam is not a monolith of extremism, but a complex tapestry woven from threads of profound spirituality, radical social reform, and inevitably, political struggle.
-Correction Note: The original text’s reliance on R.B. Serjeant for the Constitution of Medina is sound and retained. However, the narrative is deepened by emphasizing the political nature of the Ummah defined in Serjeant's analysis—a confederation based on security cooperation rather than solely religious uniformity.
-
-The World Before: Jahiliyyah
-
-Before the revelation, the Arabian Peninsula was immersed in Jahiliyyah. While often translated as the "Age of Ignorance," modern scholarship suggests it refers more accurately to "moral lawlessness" or "impulsiveness" (jahl as the opposite of hilm, or forbearance). It was a society defined by Asabiyyah (tribal solidarity), where justice was retributive and blood feuds could span generations.
-
-The Constitution of Medina: A Blueprint for Pluralism
-
-When Prophet Muhammad migrated to Medina in 622 CE, he established the Sahifat al-Madinah (Constitution of Medina). As analyzed by R.B. Serjeant, this document was revolutionary not for its theology, but for its politics. It integrated the Muslim migrants (Muhajirun), the Medinan helpers (Ansar), and the local Jewish tribes into a single political unit, declaring them "one community (Ummah) to the exclusion of all men".35
-Mutual Defense: The Jewish tribes were granted religious autonomy but were bound to share in the cost of defending the city.
-Secular Confederation: Serjeant notes that the structure was effectively a "security confederation" that superimposed a super-tribal authority (the Prophet) over the existing clan structures.35
-This stands in stark contrast to the modern extremist vision of the Ummah as a monolithic, exclusionary religious entity. The original Ummah was a political coalition that included non-Muslims.
-
-Chapter 3: The Medieval Scars (Revised)
-
-The collective memory of the Muslim world is etched with the scars of two cataclysms: the Crusades and the Mongol invasions. These events rewired the theological DNA of the civilization.
-
-The Crusades: "Colored to Our Ankles"
-
-The trauma of the Crusades is encapsulated in the fall of Jerusalem in 1099. The violence was not merely military but performative. The chronicler Fulcher of Chartres vividly described the massacre in the Al-Aqsa mosque: "In this temple 10,000 were killed. Indeed, if you had been there you would have seen our feet colored to our ankles with the blood of the slain".22 This imagery of blood reaching the ankles (usque ad talos) became a permanent fixture in the Muslim historical imagination, fueling a narrative of defensive jihad that persists to this day.
-
-The Mongol Catastrophe and the "Mardin Deviation"
-
-If the Crusades were a wound, the Mongol invasion of 1258 was an amputation. The destruction of the Abbasid Caliphate forced a theological crisis: how could God allow pagans to defeat His chosen people?
-The Nuance of Ibn Taymiyyah: In the aftermath, the scholar Ibn Taymiyyah issued the famous "Mardin Fatwa." The Mongols had converted to Islam but continued to rule by their tribal Yassa code. When asked if the city of Mardin was Dar al-Islam (Abode of Islam) or Dar al-Harb (Abode of War), Ibn Taymiyyah refused the binary. He created a third category: Dar Murakkab (Composite Domain), where the ruler might be sinful for not applying Sharia, but the inhabitants were still Muslims deserving of protection.11
-The Extremist Distortion: Modern jihadists have stripped away this nuance. They ignore the Dar Murakkab category and instead use Ibn Taymiyyah’s condemnation of the Yassa code to justify Takfir (excommunication) against any modern leader who does not implement their rigid version of Sharia. This "Mardin deviation" is the theological engine of groups like ISIS and Al-Qaeda.
-
-Chapter 4: The Colonial Wound (Corrected)
-
-CRITICAL CORRECTION: The original document attributed the radical text Jihad is the Way to the Muslim Brotherhood’s founder, Hassan al-Banna. This section corrects that error to accurately trace the movement’s ideological devolution.
-
-The 1924 Rupture and the Rise of the Brotherhood
-
-The abolition of the Caliphate in 1924 left a vacuum of authority. Hassan al-Banna founded the Muslim Brotherhood in 1928 to fill this void. Al-Banna’s vision was primarily one of social reform and anti-colonial resistance. His Epistle on Jihad focused on liberating Muslim lands from foreign (British/Zionist) occupation. It was a nationalist-Islamist project, not a global Salafi-Jihadist one.8
-
-The Radical Shift: From Al-Banna to Mashhur
-
-The movement’s ideology did not remain static. Over decades of repression, it hardened. The true pivot to global jihadism is found not in Al-Banna’s early writings, but in the works of later leaders like Mustafa Mashhur.
-The 1995 Manifesto: In 1995, Mashhur, who would soon become the Brotherhood’s General Guide, published Jihad is the Way (Al-Jihad huwa al-Sabil). Unlike Al-Banna’s localized focus, Mashhur’s text explicitly called for the "global conquest" of Islam and the restoration of the Caliphate through martial means.6
-The Ideological Bridge: Mashhur wrote, "Jihad for Allah is not limited to the specific region of the Islamic countries... the banner of Jihad... shall continue to be raised... until every inch of the land of Islam will be liberated".9
-This text bridges the gap between the Brotherhood’s political Islam and Al-Qaeda’s global jihad. By misattributing this 1995 text to the 1940s founder, one misses the crucial role of state repression (Nasser’s prisons) and the Afghan Jihad in radicalizing the movement’s leadership. The Brotherhood did not start as Al-Qaeda; it evolved toward it under specific pressures.
-
-Chapter 6: The Global Jihad (Corrected)
-
-
-The Theatrics of Terror: The Kasasbeh Case
-
-The modern jihadist strategy relies on the "Management of Savagery." This was brutally illustrated in the case of Jordanian pilot Mu'ath al-Kasasbeh.
-The Reality of the Execution: While the world watched the horrific video of his burning on February 3, 2015, intelligence confirms he was actually executed a month earlier, on January 3, 2015.20
-The Strategic Deception: ISIS spent January negotiating for a prisoner swap—demanding the release of Sajida al-Rishawi—for a man they had already killed. This was not just cruelty; it was calculated psychological warfare designed to humiliate the Jordanian state and expose its powerlessness. By manipulating the timeline, ISIS controlled the global news cycle, proving that their "media caliphate" was as potent as their military one.
-
-Chapter 8 & 10: The Digital & Social Front (Verified & Expanded)
-
-The report’s analysis of contemporary digital extremism and state repression is its strongest contribution, supported by granular, verified data.
-
-The "Nazer" App: Algorithms of Oppression
-
-In Iran, the theocratic state has modernized its repression. The "Nazer" (Observer) app represents the weaponization of the smartphone.
-Crowdsourced Surveillance: The app allows "vetted" citizens to report women for "improper hijab." It effectively turns the population into a distributed network of informants.
-Automated Punishment: Reports trigger real-time SMS warnings to vehicle owners. Intelligence indicates the system is integrated with traffic cameras and can lead to automatic vehicle impoundment.26
-Expansion: Recent reports (2024-2025) indicate the surveillance has expanded to include public transport, taxis, and even ambulances, creating a digital panopticon where no space is private.28
-
-The Al-Khansaa Brigade: The Incentives of Complicity
-
-Within the ISIS Caliphate, the all-female Al-Khansaa Brigade enforced the brutal morality codes. However, their loyalty was purchased with privilege.
-The Driving Exemption: In a society where women were banned from driving, Al-Khansaa members were granted the right to drive vehicles. They were also permitted to carry weapons (pistols and Kalashnikovs) and operate communications equipment.30
-Agency through Oppression: This created a perverse incentive: the only way for a woman to achieve a semblance of autonomy (mobility, power) was to become an enforcer of the system that enslaved her sisters. This dynamic explains the brigade's fierce loyalty and brutality.
-
-The "Cubs of the Caliphate": Industrialized Trauma
-
-The indoctrination of children was systemic. Recovered textbooks verify that math problems were framed in terms of "counting bullets," and biology lessons focused on "points of vulnerability" in the human body.31 Children were not just spectators but active participants in executions, creating a "generation of lions" desensitized to violence before they could even read.
-
-Conclusion: The Pattern Revealed
-
-The "Shadow of Extremism" is not a static darkness; it is a shifting shape. It evolves from the defensive nationalism of Al-Banna to the global ambition of Mashhur; from the theological debates of Baghdad to the algorithmic enforcement of Tehran.
-This audit reveals that the path to understanding extremism lies in precision. We must distinguish between the 1990 police firing in Ayodhya and the 1992 riots; between the founding ideology of the Brotherhood and its later radicalization; between the date of a pilot’s death and the date of his video. In these details lies the difference between a generalized grievance narrative and a verifiable history of radicalization.
-The challenge for the future is not just fighting the "Virtual Caliphate" on Telegram or TikTok, but understanding the deep historical currents—the "Mardin deviation," the colonial wounds, the "Jihad is the Way" pivot—that feed it. Only by correcting the historical record can we hope to reform the future.
+"The Shadow of Extremism" is a work of significant potential, containing flashes of brilliance—particularly in its dissection of the "Jihad is the Way" authorship and the analysis of the "969" conspiracy in Myanmar. The author clearly possesses deep knowledge of the history of Islamist thought and has synthesized a vast array of primary sources.
+However, the book is currently not trustworthy in its final third. The reliance on the debunked Stanford Prison Experiment and the scientifically dubious "Mass Formation Psychosis" theory betrays a lack of diligence in the behavioral sciences that contrasts sharply with the rigor of the historical sections. Furthermore, the mathematical error in the 9/11 ROI calculation and the catastrophic chapter numbering errors in Part III signal that the manuscript is a draft, not a finished product.
+Final Verdict: If published in its current state, the book will be dismissed by experts as "pseudoscientific" due to Chapter 13, and by general readers as "poorly edited" due to the duplicate chapters.
+Action Plan:
+Delete Chapter 13 in its current form. Rewrite it using reputable social psychology (Social Identity Theory, Devoted Actor Theory).
+Fix the Math in Chapter 14 (Economics).
+Renumber the final chapters to resolve the duplicate 14/15 issue.
+Publish. With these fixes, the book moves from "Inferior" to "Authoritative."
 Works cited
-2011 CarswellOnt 8366, 2011 ONSC 4938 Fontaine v. Canada (Attorney General) Larry Philip Fontaine et al, Plaintiffs and The Atto, accessed November 22, 2025, https://turtletalk.blog/wp-content/uploads/2011/08/8-31-11-fontaine-v-canada-attorney-general1.pdf
-Hangman in FP Scala. In programming, it's quite common to… | by Algimantas Krasauskas | Wix Engineering | Medium, accessed November 22, 2025, https://link.medium.com/mq9ZlwNpcZ
 The-Shadow-of-Extremism.pdf
-The Coming Great Conflict - Time Magazine, accessed November 22, 2025, https://time.com/6991271/civil-war-conflict-ray-dalio/
-The past as future | Arab News, accessed November 22, 2025, https://www.arabnews.com/node/2153566
-The Muslim Brotherhood in America: Orthodox and Active - DTIC, accessed November 22, 2025, https://apps.dtic.mil/sti/tr/pdf/ADA566528.pdf
-Mustafa Mashhur - Wikipedia, accessed November 22, 2025, https://en.wikipedia.org/wiki/Mustafa_Mashhur
-The Society of the Muslim Brothers (Chapter 1) - The Fourth Ordeal, accessed November 22, 2025, https://www.cambridge.org/core/books/fourth-ordeal/society-of-the-muslim-brothers/A357FA646E2DC0F2F27F5F3D10ED2E3F
-The Muslim Brotherhood in Its Own Words - The Investigative Project on Terrorism, accessed November 22, 2025, https://www.investigativeproject.org/2576/the-muslim-brotherhood-in-its-own-words
-The Muslim Brotherhood: How its Troubled History Suggests that it Will Not merely Survive but Thrive in the Twenty-First Century - UVM ScholarWorks, accessed November 22, 2025, https://scholarworks.uvm.edu/cgi/viewcontent.cgi?article=1101&context=hcoltheses
-accessed November 22, 2025, https://www.milestonesjournal.net/reviews/2017/2/7/nvare2v46vs3feqgjjoq6noyfptubu#:~:text=Over%20the%20course%20of%20his,the%20Mardin%20fatwa%20with%20several
-Reviews - Milestones, accessed November 22, 2025, https://www.milestonesjournal.net/reviews-homepage
-Yellow badge - Wikipedia, accessed November 22, 2025, https://en.wikipedia.org/wiki/Yellow_badge
-Jewish Badge, accessed November 22, 2025, https://www.jewishvirtuallibrary.org/jewish-badge
-The Holocaust: Yellow Badges, Stars & Markings - Jewish Virtual Library, accessed November 22, 2025, https://www.jewishvirtuallibrary.org/yellow-badges-stars-and-markings
-Ayodhya firing incident - Wikipedia, accessed November 22, 2025, https://en.wikipedia.org/wiki/Ayodhya_firing_incident
-بھارت وچ قتل عاماں دی لسٹ - وکیپیڈیا, accessed November 22, 2025, https://pnb.wikipedia.org/wiki/%D8%A8%DA%BE%D8%A7%D8%B1%D8%AA_%D9%88%DA%86_%D9%82%D8%AA%D9%84_%D8%B9%D8%A7%D9%85%D8%A7%DA%BA_%D8%AF%DB%8C_%D9%84%D8%B3%D9%B9
-بھارت میں قتل عام کی فہرست - آزاد دائرۃ المعارف - ویکیپیڈیا, accessed November 22, 2025, https://ur.wikipedia.org/wiki/%D8%A8%DA%BE%D8%A7%D8%B1%D8%AA_%D9%85%DB%8C%DA%BA_%D9%82%D8%AA%D9%84_%D8%B9%D8%A7%D9%85_%DA%A9%DB%8C_%D9%81%DB%81%D8%B1%D8%B3%D8%AA
-Uproar over India mosque report | News - Al Jazeera, accessed November 22, 2025, https://www.aljazeera.com/news/2009/11/24/uproar-over-india-mosque-report
-VP/HR - Execution of Muath al-Kasasbeh | E-002205/2015 | European Parliament, accessed November 22, 2025, https://www.europarl.europa.eu/doceo/document/E-8-2015-002205_EN.html
-Muath al-Kasasbeh - Wikipedia, accessed November 22, 2025, https://en.wikipedia.org/wiki/Muath_al-Kasasbeh
-A Survey of Church History Part 2 Study Guide - Scribd, accessed November 22, 2025, https://www.scribd.com/document/620056941/A-Survey-of-Church-History-Part-2-Study-Guide
-Fulcher of Chartres: History of the Expedition to Jerusalem, accessed November 22, 2025, https://www.bu.edu/mzank/Jerusalem/tx/FulcherofChartres.htm
-Cypress of Kashmar - Wikipedia, accessed November 22, 2025, https://en.wikipedia.org/wiki/Cypress_of_Kashmar
-Crying Trees – Leyla Jagiella - Critical Muslim, accessed November 22, 2025, https://www.criticalmuslim.io/crying-trees/
-Iran protests: Human Rights Council probe condemns online, app-based repression, accessed November 22, 2025, https://news.un.org/en/story/2025/03/1161126
-UN: Iran using drones to enforce hijab law - VOA, accessed November 22, 2025, https://www.voanews.com/a/un-iran-using-drones-to-enforce-hijab-law/8011563.html
-Drones, informers and apps: Iran intensifies surveillance on women to enforce hijab law, accessed November 22, 2025, https://www.theguardian.com/global-development/2025/mar/24/iran-police-women-surveillance-hijab-drones-dress-code-law
-Iran: Draconian campaign to enforce compulsory veiling laws through surveillance and mass car confiscations - Amnesty International, accessed November 22, 2025, https://www.amnesty.org/en/latest/news/2024/03/iran-draconian-campaign-to-enforce-compulsory-veiling-laws-through-surveillance-and-mass-car-confiscations/
-Al-Khansaa Brigade - Wikipedia, accessed November 22, 2025, https://en.wikipedia.org/wiki/Al-Khansaa_Brigade
-Cubs in the Lions' Den: Indoctrination and Recruitment of Children Within Islamic State Territory | ICSR, accessed November 22, 2025, https://icsr.info/wp-content/uploads/2018/07/ICSR-Report-Cubs-in-the-Lions%E2%80%99-Den-Indoctrination-and-Recruitment-of-Children-Within-Islamic-State-Territory.pdf
-Cubs in the lions' den: indoctrination and recruitment of children within Islamic State territory - ePrints Soton - University of Southampton, accessed November 22, 2025, https://eprints.soton.ac.uk/472209/
-The Church's Mission of Dialogue in the Digital Age - The Ateneo Archium, accessed November 22, 2025, https://archium.ateneo.edu/cgi/viewcontent.cgi?article=1026&context=apms
-The Way, the Truth and the Life: Asian Religious Communication in the Post-Truth Climate, accessed November 22, 2025, https://www.researchgate.net/publication/331949355_The_Way_the_Truth_and_the_Life_Asian_Religious_Communication_in_the_Post-Truth_Climate
-The Sunnah Jāmi'ah, pacts with the Yathrib Jews, and the Taḥrīm of Yathrib: analysis and translation of the documents - Cambridge University Press & Assessment, accessed November 22, 2025, https://www.cambridge.org/core/services/aop-cambridge-core/content/view/85222E518E34437AD5261C2A9200C0F0/S0041977X00057761a.pdf/sunnah_jamiah_pacts_with_the_yathrib_jews_and_the_tahrim_of_yathrib_analysis_and_translation_of_the_documents_comprised_in_the_socalled_constitution_of_medina.pdf
-The Kitāb al-Umma, or Ṣaḥīfat al-Madīna (Chapter 8) - Islamic Law in Context, accessed November 22, 2025, https://www.cambridge.org/core/books/islamic-law-in-context/kitab-alumma-or-sahifat-almadina/8CED59AC00F571302E610A016042EC4B
-The State of Debate Within Islam: Theological Developments in the Muslim World Since 9/11, accessed November 22, 2025, https://assets.ctfassets.net/75ila1cntaeh/6wpzc4Si9oQUAZDQsS2jtM/e2852897c3f8bcadd78c0cdcdaabafc2/Tony_Blair_Institute__The_State_of_Debate_Within_Islam__Theological_Developments_in_the_Muslim_World_Since_9-11__September_2.pdf
+Make Me a Man! : Masculinity, Hinduism, and Nationalism in India. 9780791483695, 079148369X - DOKUMEN.PUB, accessed November 23, 2025, https://dokumen.pub/make-me-a-man-masculinity-hinduism-and-nationalism-in-india-9780791483695-079148369x.html
+œA Place of Paramount Peaceâ•š: The Unofficial Nationalism of an Officially Peaceful Movement - Digital Commons @ IWU, accessed November 23, 2025, https://digitalcommons.iwu.edu/cgi/viewcontent.cgi?article=1013&context=religion_honproj
+The Saffron Wave book by Thomas Blom Hansen - ThriftBooks, accessed November 23, 2025, https://www.thriftbooks.com/w/the-saffron-wave_thomas-blom-hansen/683448/
+The Saffron Wave: Democracy and Hindu Nationalism in Modern India by Thomas Blom Hansen, Paperback | Barnes & Noble®, accessed November 23, 2025, https://www.barnesandnoble.com/w/the-saffron-wave-thomas-blom-hansen/1119159690
+The saffron wave : democracy and Hindu nationalism in modern India : Hansen, Thomas Blom, 1958- : Free Download, Borrow, and Streaming - Internet Archive, accessed November 23, 2025, https://archive.org/details/saffronwavedemoc0000hans_x4m0
+Democratic Resentment Thomas Blom Hansen: The Saffron Wave: Democracy and Hindu Nationalism in Modern India. (Princeton: Prince - Cambridge University Press & Assessment, accessed November 23, 2025, https://www.cambridge.org/core/services/aop-cambridge-core/content/view/697B8DB98475F58FAC9FE49E738692F3/S0034670500041760a.pdf/democratic_resentment_thomas_blom_hansen_the_saffron_wave_democracy_and_hindu_nationalism_in_modern_india_princeton_princeton_university_press_1999_pp_vi_293_1795_paper.pdf
+Ray Scott Percival (London School of Economics (PhD)) - PhilPeople, accessed November 23, 2025, https://philpeople.org/profiles/ray-scott-percival
+Vaccine Hesitancy in the post-COVID-19 era: An interdisciplinary approach for a Trust-and-Risk paradigm with governmental and intergovernmental implications - IRPJ, accessed November 23, 2025, https://irpj.euclid.int/articles/vaccine-hesitancy-in-the-post-covid-19-era-an-interdisciplinary-approach-for-a-trust-and-risk-paradigm-with-governmental-and-intergovernmental-implications/
+Chemtrails and Covid-19: Two Faces of Evil - Semantic Scholar, accessed November 23, 2025, https://pdfs.semanticscholar.org/d984/68fa0a29593f8347a1ef9af179f1611cfe5c.pdf
+Bond University DOCTORAL THESIS Conspiratorial beliefs and misinformation: diffusion, susceptibility and mitigation Cosgrove, Tylor, accessed November 23, 2025, https://pure.bond.edu.au/ws/portalfiles/portal/268604865/Tylor_Cosgrove_Thesis.pdf
+Wikipedia talk:WikiProject Psychology/Archive 10, accessed November 23, 2025, https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Psychology/Archive_10
+Visions of the Great Turning: Utopianism and Conscious Evolution in New Age Science Fiction - ProQuest, accessed November 23, 2025, https://search.proquest.com/openview/3d92263ab34ceba0fb006471b4a35346/1?pq-origsite=gscholar&cbl=18750&diss=y
+Stanford prison experiment - Wikipedia, accessed November 23, 2025, https://en.wikipedia.org/wiki/Stanford_prison_experiment
+Guest post: Should Zimbardo's Stanford Prison Experiment be retracted?, accessed November 23, 2025, https://retractionwatch.com/2025/03/10/guest-post-should-zimbardos-stanford-prison-experiment-be-retracted/
+David Rosenhan's fraudulent Thud experiment set back psychiatry for decades, accessed November 23, 2025, https://news.ycombinator.com/item?id=22155529
+The infamous Stanford prison experiment was flawed – so why is it still so influential today?, accessed November 23, 2025, https://findanexpert.unimelb.edu.au/news/98029-the-infamous-stanford-prison-experiment-was-flawed-%E2%80%93-so-why-is-it-still-so-influential-today%3F
+Philip Zimbardo's Response to Recent Criticisms of the Stanford Prison Experiment, accessed November 23, 2025, https://www.prisonexp.org/response
+Re-evaluating the SPE. And its Critics - ShortCutstv, accessed November 23, 2025, https://www.shortcutstv.com/blog/re-evaluating-the-spe-and-its-critics/
+Retract the Stanford Prison Experiment? | Science and Culture Today - Evolution News, accessed November 23, 2025, https://scienceandculture.com/2025/03/retract-the-stanford-prison-experiment/
+Was the Stanford Prison Experiment helpful? : r/psychologystudents - Reddit, accessed November 23, 2025, https://www.reddit.com/r/psychologystudents/comments/183u0dg/was_the_stanford_prison_experiment_helpful/
+The State of Debate Within Islam: Theological Developments in the Muslim World Since 9/11, accessed November 23, 2025, https://assets.ctfassets.net/75ila1cntaeh/6wpzc4Si9oQUAZDQsS2jtM/e2852897c3f8bcadd78c0cdcdaabafc2/Tony_Blair_Institute__The_State_of_Debate_Within_Islam__Theological_Developments_in_the_Muslim_World_Since_9-11__September_2.pdf
+Jon Hoover - Jihad and the Mongols - Google Sites, accessed November 23, 2025, https://sites.google.com/site/jhoover363/taymiyyan-studies/jihad-against-the-mongols
+(PDF) Ibn Taymiyya's “New Mardin Fatwa”. Is genetically modified Islam (GMI) carcinogenic?, accessed November 23, 2025, https://www.researchgate.net/publication/228046279_Ibn_Taymiyya's_New_Mardin_Fatwa_Is_genetically_modified_Islam_GMI_carcinogenic
+Ibn Taymiyyah's “Mardin Fatwa” and the Mongols: An Analysis - Universiti Sains Malaysia, accessed November 23, 2025, http://web.usm.my/kajh/vol29_1_2022/kajh29012022_08.pdf
+Reassessing Osama Bin Laden's Legacy - ISPU, accessed November 23, 2025, https://ispu.org/reassessing-osama-bin-ladens-legacy/
+Among Digitized Manuscripts - OAPEN Library, accessed November 23, 2025, https://library.oapen.org/bitstream/handle/20.500.12657/38139/9789004400351_webready_content_text.pdf?sequence=1&isAllowed=y
+The Muslim Brotherhood in America: Orthodox and Active - DTIC, accessed November 23, 2025, https://apps.dtic.mil/sti/tr/pdf/ADA566528.pdf
+Mustafa Mashhur - Wikipedia, accessed November 23, 2025, https://en.wikipedia.org/wiki/Mustafa_Mashhur
+The Muslim Brotherhood in Its Own Words - The Investigative Project on Terrorism, accessed November 23, 2025, https://www.investigativeproject.org/2576/the-muslim-brotherhood-in-its-own-words
+in Islamist Ideology - Amazon S3, accessed November 23, 2025, https://s3.amazonaws.com/media.hudson.org/Current+Trends+Volume+7.pdf
+The Muslim Brotherhood: How its Troubled History Suggests that it Will Not merely Survive but Thrive in the Twenty-First Century - UVM ScholarWorks, accessed November 23, 2025, https://scholarworks.uvm.edu/cgi/viewcontent.cgi?article=1101&context=hcoltheses
+Prophet Muhammad's treatment to non-Muslims: The birth of religious plurality, accessed November 23, 2025, https://www.dar-alifta.org/en/article/details/540/prophet-muhammads-treatment-to-non-muslims-the-birth-of-religious-plurality
+Al-Wifaq Research Journal of Islamic Studies Volume 7, Issue q (January - June 2024) eISSN: 2709-8915, pISSN, accessed November 23, 2025, https://alwifaqjournal.com/article/download/150/150/288
+MUHAMMAD AND THE COVENANT OF NAJRAN - Free University Academic Journals, accessed November 23, 2025, https://journals.org.ge/index.php/asianstudies/article/download/113/48/493
+prophet muhammad's approach to peaceful co-existance with non-muslims - Open Educational Resources, accessed November 23, 2025, https://oer.fukashere.edu.ng/wp-content/uploads/2021/03/739-Dr-aminu-YOBE-CONFERENCE.docx
+Islam War On Terror | PDF | Copts | Muhammad - Scribd, accessed November 23, 2025, https://www.scribd.com/document/107191721/Islam-War-on-Terror
+Financing Terror: Al Qaeda's Changing Strategies - Wilson Center, accessed November 23, 2025, https://www.wilsoncenter.org/event/financing-terror-al-qaedas-changing-strategies
+The cost of 9/11 - in dollars - CBS News, accessed November 23, 2025, https://www.cbsnews.com/news/the-cost-of-9-11-in-dollars/
+Measuring the Effects of the September 11 Attack on New York City, accessed November 23, 2025, https://www.newyorkfed.org/research/epr/02v08n2/0211rapa/0211rapa.html
+A/71/75 General Assembly - UNECE, accessed November 23, 2025, http://www.unece.org/fileadmin/DAM/OPEN_UNECE/02_Programme_Planning_and_reporting/2014-2015_PPR_-_Sections_20_and_23.pdf
+RAN ISSUE PAPER Foreign fighter returnees & the reintegration challenge - Policija, accessed November 23, 2025, https://www.policija.si/images/stories/MednarodnoSodelovanje/CrpanjeEvropskihSredstev/Projekti/pdf/RAN-EN/04-Returnees-and-reintegration.pdf
+Australian foreign fighters: Risks and responses | Lowy Institute, accessed November 23, 2025, https://www.lowyinstitute.org/publications/australian-foreign-fighters-risks-responses
+House of Commons - Counter-terrorism: foreign fighters - Home Affairs - Parliament UK, accessed November 23, 2025, https://publications.parliament.uk/pa/cm201415/cmselect/cmhaff/933/93305.htm
+Operation Trojan T-Shirt - Campaign Toolkit, accessed November 23, 2025, https://www.campaigntoolkit.org/casestudies/operation-trojan-t-shirt/
+Successfully Countering Hate and Far-Right Propaganda: The story of EXIT-Germany, accessed November 23, 2025, https://impakter.com/exit-germany/
+The role of civil society organisations in exit work - Migration and Home Affairs, accessed November 23, 2025, https://home-affairs.ec.europa.eu/system/files/2022-07/ran_paper_role_civil_society_organisations_exit_work_052022_en.pdf
+Rachel Briggs Sebastien Feve POLICY BRIEFING : COUNTERING THE APPEAL OF EXTREMISM ONLINE, accessed November 23, 2025, https://www.dhs.gov/sites/default/files/publications/Countering%20the%20Appeal%20of%20Extremism%20Online_1.pdf
+OPS // Trojan T-Shirt / EXIT-Deutschland - YouTube, accessed November 23, 2025, https://www.youtube.com/watch?v=CSIbsHKEP-8
+Healing from Hate: How Young Men Get Into―and Out of―Violent Extremism 978-0520292635, 0520292634 - DOKUMEN.PUB, accessed November 23, 2025, https://dokumen.pub/healing-from-hate-how-young-men-get-intoand-out-ofviolent-extremism-978-0520292635-0520292634.html
+Archived Content - Public Safety Canada, accessed November 23, 2025, https://www.publicsafety.gc.ca/lbrr/archives/cn28580-eng.pdf
+How to use campaigns for exit work? An overview of Exit Germany's target group approach, accessed November 23, 2025, https://journal-exit.de/wp-content/uploads/2022/05/Campaigns_Wichmann_2022.pdf
+Countering the Appeal of Extremism Online - ISD Report, accessed November 23, 2025, https://www.dhs.gov/sites/default/files/publications/Countering%20the%20Appeal%20of%20Extremism%20Online-ISD%20Report.pdf
+RAN ISSUE PAPER Counter Narratives and Alternative Narratives - Migration and Home Affairs, accessed November 23, 2025, https://home-affairs.ec.europa.eu/system/files_en?file=2020-09/issue_paper_cn_oct2015_en.pdf
+969 Movement - Wikipedia, accessed November 23, 2025, https://en.wikipedia.org/wiki/969_Movement
+The Politics of Numerology: Burma's 969 vs. 786 and Malaysia's 505 - The Diplomat, accessed November 23, 2025, https://thediplomat.com/2013/05/the-politics-of-numerology-burmas-969-vs-786-and-malaysias-505/
+Recent Religious Riots in Myanmar: the current situation of Burmese Muslims - 笹川平和財団, accessed November 23, 2025, https://www.spf.org/apbi/news_en/m_140216.html
+Buddhism and State Power in Myanmar | International Crisis Group, accessed November 23, 2025, https://www.crisisgroup.org/asia-pacific/myanmar-south-east-asia/290-buddhism-and-state-power-myanmar
+R2P IDEAS in brief - Asia-Pacific Centre for the Responsibility to Protect, accessed November 23, 2025, https://r2pasiapacific.org/files/576/r2pbrief_2013_ethnic_tensions_myanmar_indonesia.pdf
+Militant Monks Fuel Government Terror in Myanmar - The Jamestown Foundation, accessed November 23, 2025, https://jamestown.org/militant-monks-fuel-government-terror-in-myanmar/
+Understanding Myanmar's Buddhist Extremists: Some Preliminary Musings - ScholarWorks at UMass Boston, accessed November 23, 2025, https://scholarworks.umb.edu/cgi/viewcontent.cgi?article=1789&context=nejpp
+Full article: Buddhist Nationalist Sermons in Myanmar: Anti-Muslim Moral Panic, Conspiracy Theories, and Socio-Cultural Legacies - Taylor & Francis Online, accessed November 23, 2025, https://www.tandfonline.com/doi/full/10.1080/00472336.2022.2032801
