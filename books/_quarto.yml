@@ -39,10 +39,10 @@ book:
     - 19-conclusion.qmd
     - 20-glossary.qmd
     - 21-appendix-radicalization-guide.qmd
-    - 21-bibliography.qmd
-    - 22-about-author.qmd
-    - 24-support.qmd
+    - 22-bibliography.qmd
     - 23-source-index.qmd
+    - 24-about-author.qmd
+    - 25-support.qmd
 
 format:
   html:
