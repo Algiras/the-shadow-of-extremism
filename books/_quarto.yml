@@ -42,6 +42,7 @@ book:
     - 21-appendix-radicalization-guide.qmd
     - 21-bibliography.qmd
     - 22-about-author.qmd
+    - 24-support.qmd
     - 23-source-index.qmd
 
 format:

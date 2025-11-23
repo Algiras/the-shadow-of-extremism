@@ -1,0 +1,60 @@
+# Support This Work {#support .unnumbered}
+
+This book is published **free of charge** because knowledge about extremism, history, and pathways to peace should be accessible to everyone—regardless of economic circumstances.
+
+## Why Free?
+
+- **Education as a Public Good**: Understanding the roots of extremism is critical for building a more peaceful world
+- **Global Accessibility**: Readers in conflict zones often can't afford books
+- **Open Research**: Free sharing accelerates understanding and discussion
+
+## How You Can Support
+
+If you found this work valuable, here are ways you can help:
+
+### 💰 Financial Support
+
+Your support helps fund:
+- Research time for future updates  
+- Translation into other languages  
+- Free distribution to schools and libraries  
+- Hosting costs for the online version
+
+**Donation Options:**
+- [GitHub Sponsors](https://github.com/sponsors/Algiras) (Recommended - no fees)
+- [Buy Me a Coffee](https://buymeacoffee.com/yourusername)
+- [PayPal](https://paypal.me/yourusername)
+- **Bitcoin**: `your_btc_address_here`
+- **Ethereum**: `your_eth_address_here`
+
+### 📚 Non-Financial Support
+
+- **Share It**: Forward the PDF or GitHub link to someone who would benefit
+- **Review It**: Leave a review on Goodreads or your blog
+- **Translate It**: Help translate chapters into other languages (contact via GitHub)
+- **Cite It**: Reference this work in your research or teaching
+- **Report Errors**: Submit corrections via [GitHub Issues](https://github.com/Algiras/the-shadow-of-extremism/issues)
+
+### 🎓 For Educators
+
+If you're using this book in your classroom:
+- It's **completely free** for educational use
+- Please let me know via GitHub so I can track impact
+- I'm happy to provide custom formats (large print, accessible PDFs, etc.)
+
+## Transparency
+
+All donations go toward:
+- 70% - Research and writing time  
+- 20% - Translation and accessibility  
+- 10% - Infrastructure (hosting, tools)
+
+Progress updates are posted quarterly on GitHub.
+
+---
+
+**Thank you for being part of making knowledge accessible.**
+
+— Algimantas Krasauskas
+
+Contact: [GitHub](https://github.com/Algiras) | [Email](mailto:your.email@example.com)
