@@ -98,9 +98,9 @@ You are free to:
 - **Adapt** — remix, transform, and build upon the material
 
 Under the following terms:
-- **Attribution** — You must give appropriate credit
-- **NonCommercial** — You may not use the material for commercial purposes
-- **ShareAlike** — If you remix or transform, you must distribute under the same license
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made
+- **NonCommercial** — You may not use the material for commercial purposes without permission
+- **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license
 
 [Full License Text](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
