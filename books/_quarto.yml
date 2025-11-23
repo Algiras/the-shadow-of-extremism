@@ -1,0 +1,64 @@
+publisher: "Your Publisher Name (e.g. Krasauskas Publishing)"
+isbn-paperback: "978-X-XXXX-XXXX-X"
+isbn-ebook: "978-X-XXXX-XXXX-X"
+
+project:
+  type: book
+  output-dir: _output
+  render:
+    - "*.qmd"
+    - "!references/"
+
+book:
+  title: "The Shadow of Extremism"
+  subtitle: "A Journey Through History, Ideology, and the Path to Reform"
+  author: "Algimantas Krasauskas"
+  date: "today"
+  chapters:
+    - 00-copyright.qmd
+    - 00-dedication.qmd
+    - index.qmd
+    - 01-foundations.qmd
+    - 02-abrahamic-family.qmd
+    - 03-medieval-scars.qmd
+    - 04-colonial-wound.qmd
+    - 05-ideology.qmd
+    - 06-global-jihad.qmd
+    - 07-non-believers.qmd
+    - 08-women-children.qmd
+    - 09-digital-front.qmd
+    - 10-modernity.qmd
+    - 11-theological-way-out.qmd
+    - 12-social-way-out.qmd
+    - 12a-transition-understanding.qmd
+    - 13-psychology-obedience.qmd
+    - 14-economics-terror.qmd
+    - 15-future-hate.qmd
+    - 16-comparative-buddhism.qmd
+    - 17-comparative-christianity.qmd
+    - 18-comparative-hinduism.qmd
+    - 19-conclusion.qmd
+    - 20-glossary.qmd
+    - 21-appendix-radicalization-guide.qmd
+    - 21-bibliography.qmd
+    - 22-about-author.qmd
+    - 23-source-index.qmd
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+    number-sections: false
+    mainfont: "Amiri"
+    include-in-header:
+      text: |
+        \usepackage{fontspec}
+        \setmainfont{Amiri}
+        \usepackage{geometry}
+  epub:
+    cover-image: cover.png
+  docx: default
+
+
+

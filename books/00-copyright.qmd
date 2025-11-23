@@ -1,0 +1,17 @@
+# Copyright {.unnumbered}
+
+**The Shadow of Extremism**  
+*A Journey Through History, Ideology, and the Path to Reform*
+
+Copyright © 2025 by Algimantas Krasauskas
+
+All rights reserved. No part of this book may be reproduced or used in any manner without written permission of the copyright owner except for the use of quotations in a book review.
+
+First Edition: November 2025
+
+**ISBN**: {{< meta isbn-paperback >}} (Paperback)  
+**ISBN**: {{< meta isbn-ebook >}} (Ebook)
+
+Published by {{< meta publisher >}}
+
+*Disclaimer: This book is a work of non-fiction. The views expressed are those of the author and do not necessarily reflect the official policy or position of any other agency, organization, employer, or company.*

@@ -1,0 +1,52 @@
+# Build outputs
+*.pdf
+*.epub
+*.docx
+
+# Quarto
+books/.quarto/
+books/_output/
+books/_site/
+books/_book/
+_freeze/
+
+# Audiobook outputs
+audiobook/output/
+*.mp3
+audiobook_script.txt
+render_log.txt
+
+# Python
+api/.venv/
+api/__pycache__/
+*.pyc
+.env
+
+# LaTeX
+*.aux
+*.log
+*.toc
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# R
+.Rproj.user
+.Rhistory
+.RData
+
+# Temporary
+*.tmp
+*.bak
