@@ -31,9 +31,9 @@ Your support helps fund:
 - Free distribution to schools and libraries  
 - Hosting costs for the online version
 
-### 💰 Support the Audiobook
+### Support the Audiobook
 
-**[☕ Buy Me a Coffee](https://buymeacoffee.com/algiras)** - Simple one-time donations
+**[Buy Me a Coffee](https://buymeacoffee.com/algiras)** - Simple one-time donations
 
 Every contribution helps fund the professional audiobook production. No account required - just click and donate!
 
@@ -47,7 +47,7 @@ Every contribution helps fund the professional audiobook production. No account 
 Check back for additional payment methods as we expand financing capabilities.
 
 
-### 📚 Non-Financial Support
+### Non-Financial Support
 
 - **Share It**: Forward the PDF or GitHub link to someone who would benefit
 - **Review It**: Leave a review on Goodreads or your blog
@@ -55,7 +55,7 @@ Check back for additional payment methods as we expand financing capabilities.
 - **Cite It**: Reference this work in your research or teaching
 - **Report Errors**: Submit corrections via [GitHub Issues](https://github.com/Algiras/the-shadow-of-extremism/issues)
 
-### 🎓 For Educators
+### For Educators
 
 If you're using this book in your classroom:
 - It's **completely free** for educational use
