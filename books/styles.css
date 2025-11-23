@@ -2,8 +2,10 @@
 
 /* Improve readability */
 body {
+  font-family: "Georgia", "Times New Roman", serif;
   font-size: 18px;
   line-height: 1.7;
+  color: #2c3e50;
 }
 
 /* Callout styling */
@@ -33,7 +35,10 @@ h2:contains("Key Takeaways") {
 
 /* Print-friendly */
 @media print {
-  .sidebar, .navbar, .page-navigation {
+
+  .sidebar,
+  .navbar,
+  .page-navigation {
     display: none;
   }
 }
