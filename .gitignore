@@ -16,9 +16,12 @@ audiobook/output/
 audiobook_script.txt
 render_log.txt
 
+# Tools downloads
+tools/references/downloaded/
+
 # Python
-api/.venv/
-api/__pycache__/
+.venv/
+__pycache__/
 *.pyc
 .env
 

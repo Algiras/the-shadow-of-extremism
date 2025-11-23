@@ -5,57 +5,61 @@ A comprehensive exploration of Islamic extremism through history, ideology, and 
 ## Project Structure
 
 ```
-bookie/
+the-shadow-of-extremism/
 ├── books/              # Book source files (Quarto)
-│   ├── *.qmd          # Chapter files
+│   ├── *.qmd          # Chapter files (~49k words)
 │   └── _quarto.yml    # Book configuration
-├── audiobook/          # Audiobook generation
-│   └── scripts/       # Python scripts for TTS
-├── api/                # Optional API for book data
-│   └── main.py        # FastAPI server
+├── audiobook/          # Audiobook generation (TTS)
+│   ├── scripts/       # Python scripts
+│   └── requirements.txt
+├── tools/              # Utility scripts
+│   └── scrape_resources.py  # Download cited web resources
 ├── references/         # Research notes and sources
-└── .github/           # CI/CD workflows
+└── .github/workflows/  # CI/CD (auto PDF/EPUB/DOCX)
 ```
 
 ## About
 
 This book traces the **Extremism Cycle** - a 7-phase framework showing how extremism emerges, peaks, and collapses across civilizations.
 
-**Current Status**: ~49,000 words / ~180-185 pages
+**Stats**: ~49,000 words | ~180-185 pages | 28 chapters
 
-## Building the Book
+## Quick Start
 
-### Prerequisites
-- [Quarto](https://quarto.org/) (latest version)
-- LaTeX distribution (TinyTeX recommended)
-
-### Local Rendering
+### Build the Book
 
 ```bash
-# PDF
-quarto render books --to pdf
-
-# EPUB
-quarto render books --to epub
-
-# DOCX
-quarto render books --to docx
+# Install Quarto: https://quarto.org/
+quarto render books --to pdf    # or epub, docx
 ```
 
-Outputs will be in `books/_output/` (excluded from git)
+Output in `books/_output/`
 
-### Automated Builds
-
-GitHub Actions automatically renders all formats on every push to `main`. Artifacts are available in the Actions tab.
-
-## Audiobook Generation
+### Generate Audiobook
 
 ```bash
 cd audiobook
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+
+# Add your ElevenLabs API key to .env
+cp ../.env.example ../.env
+
 python scripts/generate_audiobook.py
 ```
 
-Requires ElevenLabs API key in `.env` file.
+### Scrape Web Resources
+
+```bash
+cd tools
+pip install -r requirements.txt
+python scrape_resources.py
+```
+
+## GitHub Actions
+
+Automatically renders PDF/EPUB/DOCX on every push. Download from Actions tab.
 
 ## License
 
