@@ -1,7 +1,3 @@
-publisher: "Your Publisher Name (e.g. Krasauskas Publishing)"
-isbn-paperback: "978-X-XXXX-XXXX-X"
-isbn-ebook: "978-X-XXXX-XXXX-X"
-
 project:
   type: book
   output-dir: _output
