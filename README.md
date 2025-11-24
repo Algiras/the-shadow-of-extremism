@@ -1,9 +1,14 @@
+<div align="center">
+  <img src="books/cover.png" alt="The Shadow of Extremism Book Cover" width="400"/>
+</div>
+
 # The Shadow of Extremism
 
 **A Journey Through History, Ideology, and the Path to Reform**
 
 [![Book Status](https://img.shields.io/badge/status-publication%20ready-green)](https://github.com/Algiras/the-shadow-of-extremism)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![AI: Gemini 3.0](https://img.shields.io/badge/AI-Gemini%203.0-blue)](https://deepmind.google/technologies/gemini/)
 
 ---
 
@@ -19,7 +24,7 @@ This book was created as a **2-day experiment** to test the capabilities of mode
 - **Method**: AI-driven research, synthesis, and drafting with human guidance and verification
 - **Goal**: Explore the boundaries of AI-generated scholarly content at unprecedented speed
 - **Result**: A comprehensive 200-page analysis identifying **5 Universal Dynamics** of extremism
-- **The Tools**: Google Gemini 3.0 Thinking + Anthropic Claude working in tandem
+- **The Tools**: Google Gemini 3.0 (Experimental Thinking Mode) + Anthropic Claude working in tandem
 
 **Read Online**: [algiras.github.io/the-shadow-of-extremism](https://algiras.github.io/the-shadow-of-extremism/)
 
@@ -53,7 +58,7 @@ This book is a **proof-of-concept** demonstrating what modern LLMs can create wh
 
 ### The Primary Tool: Google Antigravity
 
-This entire book was created using **Google Antigravity**, Google's new AI coding assistant (free tier), powered by Gemini 2.0 Flash Thinking. No subscriptions, no research grants, no institutional access—just free tokens and **2 days**.
+This entire book was created using **Google Antigravity**, Google's new AI coding assistant (free tier), powered by **Gemini 3.0 in Experimental Thinking Mode**. No subscriptions, no research grants, no institutional access—just free tokens and **2 days**.
 
 ### What AI Did
 - **Research**: Analyzed primary sources in classical Arabic, Ottoman Turkish, and Latin
@@ -86,7 +91,7 @@ Want to try this yourself? Here's the workflow:
 
 **Time investment**: Just **2 days** for a 200-page comparative analysis
 
-**The Value**: This demonstrates how AI can democratize complex research and make sophisticated analysis accessible—at zero cost and unprecedented speed. The combination of Gemini 2.0 Flash Thinking and Claude is *that powerful*. Anyone with internet access can now attempt similar synthesis.
+**The Value**: This demonstrates how AI can democratize complex research and make sophisticated analysis accessible—at zero cost and unprecedented speed. The combination of Gemini 3.0 (with Experimental Thinking Mode) and Claude is *that powerful*. Anyone with internet access can now attempt similar synthesis.
 ---
 
 ## 🏗️ Project Structure
