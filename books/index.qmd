@@ -258,11 +258,13 @@ This book is written for anyone seeking to understand the rise of Islamic extrem
 
 ## A Note on Methodology
 
+**About This Experimental Approach**: This book was created using AI-assisted research. The sources listed below were identified and analyzed by AI systems under human guidance, not through traditional archival research. While I've verified key claims against established scholarship, this represents an experimental methodology rather than conventional academic research.
+
 This work draws on:
 
-*   **Primary Islamic Sources**: The Quran, Hadith, and classical Islamic legal texts
-*   **Historical Chronicles**: Both Muslim and non-Muslim accounts of key events
+*   **Primary Islamic Sources**: The Quran, Hadith, and classical Islamic legal texts (analyzed via AI translation)
+*   **Historical Chronicles**: Both Muslim and non-Muslim accounts of key events (AI-curated and cross-referenced)
 *   **Modern Scholarship**: Academic research from historians, theologians, political scientists, and anthropologists
 *   **Contemporary Evidence**: Analysis of ISIS propaganda, Al-Qaeda manifestos, and testimonies from former extremists
 
-Throughout this book, I have made every effort to be fair to the Islamic tradition while being ruthlessly honest about how it has been distorted. I recognize that this is a delicate balance, and I welcome critique from those who believe I have failed to strike it.
+Throughout this book, I have made every effort to be fair to the Islamic tradition while being ruthlessly honest about how it has been distorted. I recognize that this is a delicate balance, and I welcome critique from those who believe I have failed to strike it—particularly given the experimental AI-assisted methodology employed.

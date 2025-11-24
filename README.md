@@ -7,63 +7,86 @@
 
 ---
 
-## 📖 About This Book
+## 📖 About This Project
 
-**"The Shadow of Extremism"** is a paradigm-shifting exploration of how extremist movements emerge, sustain themselves, and collapse. It moves beyond simple "clash of civilizations" narratives to reveal the **5 Universal Dynamics** that drive extremism across all cultures—from ISIS to the Inquisition, from Buddhist nationalism to secular revolutionary terror.
+**"The Shadow of Extremism"** is an **experimental AI-generated book** exploring how extremist movements emerge, sustain themselves, and collapse across cultures—from ISIS to the Inquisition, from Buddhist nationalism to secular revolutionary terror.
 
-**New in this Edition (v11.5):**
-- **Actionable Epilogue**: A "Now What?" guide converting readers into active change agents.
-- **Mechanism Cheatsheet**: A practical tool for recognizing extremist patterns in real-time.
-- **Comparative Rigor**: New analysis of the Rwandan genocide and Christian entropy.
-- **AI-Amplified Research**: Pioneering methodology using LLMs for multi-language primary source analysis.
+**What This Actually Is:**
+This book was created as a **2-day experiment** to test the capabilities of modern Large Language Models (LLMs) in synthesizing complex historical, theological, and sociological analysis. It demonstrates what AI systems can produce when given proper guidance, curated inputs, and human oversight—in just 48 hours.
+
+**The Experiment:**
+- **Timeline**: Created in just **2 days**, not years or even months of traditional research
+- **Method**: AI-driven research, synthesis, and drafting with human guidance and verification
+- **Goal**: Explore the boundaries of AI-generated scholarly content at unprecedented speed
+- **Result**: A comprehensive 200-page analysis identifying **5 Universal Dynamics** of extremism
+- **The Tools**: Google Gemini 3.0 Thinking + Anthropic Claude working in tandem
 
 **Read Online**: [algiras.github.io/the-shadow-of-extremism](https://algiras.github.io/the-shadow-of-extremism/)
 
 ---
 
-## 🔍 Seeking Anonymous Peer Reviewers
+## 🔍 Feedback Welcome
 
-**This book is currently seeking critical feedback from reviewers with expertise in:**
+**I'm particularly interested in feedback on:**
 
-- Islamic theology, jurisprudence (*fiqh*), or history
-- Middle Eastern studies or colonial history
-- Counter-terrorism, intelligence analysis, or security studies
-- Political science, psychology of radicalization, or social movements
-- Comparative religion (Buddhism, Christianity, Hinduism)
-
-### What I'm Looking For
-
-I need reviewers who will:
-- **Challenge my arguments** - Point out logical flaws, oversimplifications, or biases
-- **Fact-check** - Verify historical claims, theological interpretations, and statistical assertions
-- **Identify blind spots** - What perspectives am I missing? What voices am I ignoring?
-- **Suggest improvements** - Better sources, clearer explanations, sharper framing
+- **Factual accuracy** - Are the historical claims correct? Theological interpretations sound?
+- **AI limitations** - Where does the AI-generated analysis fall short?
+- **Source quality** - Are the AI-curated sources appropriate and credible?
+- **Logical coherence** - Does the 5 Dynamics framework hold up under scrutiny?
+- **Bias detection** - What perspectives or voices are missing?
 
 ### How to Contribute
 
 1. **Read the book** online or download the [PDF/EPUB](https://github.com/Algiras/the-shadow-of-extremism/releases)
 2. **Submit feedback** via:
    - GitHub Issues: [Report errors or suggest improvements](https://github.com/Algiras/the-shadow-of-extremism/issues)
-   - GitHub Discussions: [Broader questions or thematic critiques](https://github.com/Algiras/the-shadow-of-extremism/discussions)
+   - GitHub Discussions: [Discuss AI-generated content quality](https://github.com/Algiras/the-shadow-of-extremism/discussions)
    - Email: [Contact the author](https://github.com/Algiras)
-3. **Optional anonymity** - You can remain anonymous if preferred; I'm interested in the substance of the critique, not credentials
 
-### What Gets Acknowledged
-
-Substantive reviewers will be acknowledged in the front matter as "anonymous peer reviewers" unless you prefer to be named. Your feedback directly shapes the final published version.
+This is an **experiment in AI-augmented research**. Your critique helps us understand both the potential and limitations of this approach.
 
 ---
 
-## 🤖 AI Methodology
+## 🤖 The AI Experiment: How This Was Made
 
-This book represents a pioneering use of **AI-Amplified Scholarship**. It was researched and refined in partnership with advanced Large Language Models (Google Gemini 2.0 Flash Thinking, Anthropic Claude) to:
-- Analyze primary sources in classical Arabic, Ottoman Turkish, and Latin
-- Identify structural patterns across 7 different religious/ideological movements
-- Generate data-driven visualizations and infographics
-- Ensure rigorous logical consistency
+This book is a **proof-of-concept** demonstrating what modern LLMs can create when properly guided—using entirely **free tools**.
 
-**Note**: AI was the telescope; the author was the astronomer. All interpretations, judgments, and conclusions are human-verified and the sole responsibility of the author.
+### The Primary Tool: Google Antigravity
 
+This entire book was created using **Google Antigravity**, Google's new AI coding assistant (free tier), powered by Gemini 2.0 Flash Thinking. No subscriptions, no research grants, no institutional access—just free tokens and **2 days**.
+
+### What AI Did
+- **Research**: Analyzed primary sources in classical Arabic, Ottoman Turkish, and Latin
+- **Synthesis**: Identified structural patterns across 7 different religious/ideological movements
+- **Drafting**: Generated initial content based on scholarly frameworks
+- **Visuals**: Created infographics and diagrams
+
+### What the Human Did
+- **Guided**: Provided prompts, frameworks, and intellectual direction
+- **Curated**: Selected sources and verified claims against established scholarship
+- **Reviewed**: Edited for coherence, accuracy, and to remove AI hallucinations
+- **Accepted responsibility**: All errors, interpretations, and conclusions are mine
+
+### Limitations to Acknowledge
+- **Not traditional scholarship**: This wasn't researched over years in archives
+- **AI-curated sources**: While verified, the breadth may not match human expertise
+- **Verification challenges**: Some claims may reflect AI synthesis rather than scholarly consensus
+- **Experimental**: This is testing what's possible, not claiming definitive answers
+
+### How to Replicate This Methodology
+
+Want to try this yourself? Here's the workflow:
+
+1. **Open Antigravity** (free tier): Start conversational research sessions
+2. **Prompt strategically**: E.g., "Analyze [source] using [framework], cite primary texts"
+3. **Iterate through conversation**: Refine outputs through follow-up questions
+4. **Verify relentlessly**: Cross-check AI claims against established sources
+5. **Curate ruthlessly**: Keep what's good, discard hallucinations, edit for clarity
+6. **Assemble and refine**: Compile into coherent structure with human insight
+
+**Time investment**: Just **2 days** for a 200-page comparative analysis
+
+**The Value**: This demonstrates how AI can democratize complex research and make sophisticated analysis accessible—at zero cost and unprecedented speed. The combination of Gemini 2.0 Flash Thinking and Claude is *that powerful*. Anyone with internet access can now attempt similar synthesis.
 ---
 
 ## 🏗️ Project Structure

@@ -1,13 +1,18 @@
 # About the Author {.unnumbered}
 
-**Algimantas Krasauskas** is an independent researcher and writer focused on the intersection of religion, extremism, and geopolitics. This book emerged from a personal quest to understand the complex historical and theological roots of modern Islamic extremism, moving beyond simplistic narratives to provide nuanced analysis.
+**Algimantas Krasauskas** is a software engineer and technologist exploring the boundaries of AI-generated content. This book is an experimental project—not the result of years of traditional scholarship, but a **2-day demonstration** of what modern Large Language Models can achieve when properly guided.
 
-Driven by a commitment to fostering understanding across cultural and religious divides, Krasauskas has dedicated extensive research to primary Islamic sources, historical chronicles, and contemporary scholarship. His approach emphasizes contextualization over condemnation, seeking to illuminate the shadow of extremism while honoring the light of Islamic civilization.
+**Background**: Coming from a technical background rather than academic religious studies, I approached this project as an AI capability test: Could AI synthesize complex historical and theological analysis that would traditionally require decades of specialized training? The answer appears to be "partially, with significant human oversight."
 
-**Methodological Innovation**: This book pioneered the use of advanced AI systems (Google Gemini, Anthropic Claude) as research amplifiers—enabling multi-language primary source analysis, comparative pattern recognition across seven religions, and structural refinement—while maintaining human judgment and accountability for all interpretations.
+**The Experiment**: This book demonstrates AI-human collaboration in research:
+- AI systems handled source analysis (including texts in Arabic, Turkish, and Latin I cannot read)
+- I provided intellectual frameworks, curated outputs, and verified claims
+- The result is neither pure AI generation nor traditional scholarship, but something experimental
 
-This work is dedicated to Justina Krasauskienė, whose inspiration and passion for helping the world understand these critical issues made this book possible.
+**Intellectual Honesty**: I am not an Islamic scholar, Middle East historian, or counter-terrorism expert. I am a person curious about both extremism and AI capabilities, testing whether the latter can help democratize understanding of the former.
+
+**Dedic**ation**: This work is dedicated to Justina Krasauskienė, whose support made this experiment possible, and to everyone curious about the future of AI-augmented research.
 
 ---
 
-*For inquiries, corrections, or further discussion, the author welcomes engagement from scholars, policymakers, and readers seeking deeper understanding of these vital topics.*
+*For feedback on factual accuracy, AI limitations, or to discuss the methodology, please engage via GitHub or email. I'm particularly interested in where the AI-generated content succeeds and where it falls short.*

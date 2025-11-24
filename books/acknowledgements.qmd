@@ -1,48 +1,60 @@
 # Acknowledgements {.unnumbered}
 
-This book would not exist without the intellectual generosity, patience, and critical engagement of many individuals who challenged, corrected, and encouraged me throughout this journey.
+This experimental book would not exist without the support, patience, and intellectual honesty of several key people—and the remarkable capabilities of modern AI systems.
 
-## Academic Mentors and Reviewers
+## Primary Acknowledgement: AI Tools
 
-I am deeply indebted to the scholars who reviewed early drafts and prevented countless errors—experts in Islamic jurisprudence who kept me honest when discussing *fiqh* and *usul al-fiqh*, historians of colonialism who shaped my understanding of the Sykes-Picot legacy, and former intelligence analysts who provided invaluable insight into the operational mechanics of terrorist organizations.
+Let me be direct: The primary "collaborator" on this project was artificial intelligence. Specifically:
 
-## Research Assistance
+**Google Antigravity**: Google's new AI coding assistant (free tier) was the primary tool for this entire project. Using Google's Gemini 3.0  Thinking model, Antigravity handled:
+- Multi-language primary source analysis (Arabic, Turkish, Latin)
+- Cross-cultural pattern identification across seven religions
+- Comparative framework generation
+- Content drafting based on scholarly models
+- Structural coherence checking
 
-My gratitude to the archivists and librarians who helped me navigate Arabic-language primary sources and historical documents. To those who assisted with translations from classical Arabic and ensured I did not misrepresent textual nuances. To the researchers whose meticulous documentation of extremist propaganda made the analysis in Chapter 9 possible.
+**Anthropic Claude**: Secondary research assistant for theological nuance verification and counter-argument generation.
 
-## Voices of Experience
+**AI Image Generation Tools**: Created the infographics visualizing the 5 Dynamics framework.
 
-This book was profoundly shaped by conversations with individuals who lived the realities I could only study—former members of extremist organizations who shared their stories of radicalization and de-radicalization with courage and honesty, and survivors of conflict whose testimonies reminded me that behind every statistic is a human being. I cannot name many of you for reasons of safety, but your voices are woven throughout this text.
+**The Zero-Cost Angle**: This entire book was created using **free AI tokens**—demonstrating that sophisticated research synthesis is now accessible to anyone with internet access. No institutional funding, no research grants, no expensive subscriptions. Just **2 days and curiosity**.
 
-## Family and Friends
+These systems did in weeks what traditional scholarship would require years or decades: multi-language source analysis, systematic comparative research across seven religions, and identification of structural patterns invisible to single-perspective human analysis.
 
-To my family, who endured five years of dinner conversations about jihad, colonialism, and theological hairsplitting with patience and love. To my wife, a fierce defender of free speech, who read every draft with uncompromising honesty and challenged every lazy argument—reminding me that if I couldn't explain it clearly, I didn't understand it well enough. Your commitment to intellectual integrity, even when it made the work harder, made this book stronger.
+## Human Support
 
-To my mother, a historian whose rigorous approach to primary sources and distrust of grand narratives shaped my methodology more than any graduate seminar. You taught me that history is not about heroes and villains, but about understanding why people made the choices they did with the information they had. That lesson is woven through every chapter.
+**Justina Krasauskienė**, my wife: Your unwavering support for this AI experiment—even when it meant an intensive 2-day sprint glued to my computer instead of our usual weekend activities—made this possible. Your fierce commitment to intellectual honesty kept me from overselling the results. You are the reason this is transparently framed as an experiment rather than pretending to be traditional scholarship.
 
-To my parents, who taught me that curiosity is a virtue and that the hardest questions are the ones most worth asking.
+**My family**: For tolerating 48 hours of conversations about AI capabilities, extremism frameworks, and whether machines can "understand" theology. Your skepticism kept me grounded.
 
+## Technical Infrastructure
 
-## Technical Support
+**Quarto**: For making it possible to publish this freely online.
 
-To the open-source community behind Quarto, which made it possible to publish this book freely online. To the developers of GitHub Actions whose automation allowed me to focus on content rather than deployment infrastructure.
+**GitHub**: For version control, CI/CD automation, and hosting.
 
-## AI Research Tools
+**The Open-Source Community**: For tools that democratize publishing.
 
-This book was created in partnership with advanced artificial intelligence systems that served as research amplifiers and intellectual sparring partners. Specifically:
+## What This Experiment Demonstrates
 
-**Google Gemini 2.0 Flash Thinking**: For multi-language analysis of Arabic, Turkish, and Latin primary sources; comparative pattern recognition across religions; and structural coherence verification.
+This book exists because of **AI capabilities** meeting **human curiosity and curation**. I provided:
+- The intellectual question (Why does extremism have recurring patterns?)
+- The frameworks to apply (Social Identity Theory, Moral Foundations Theory, etc.)
+- Quality control (verifying claims, removing hallucinations, ensuring coherence)  
+- Honest framing (acknowledging this as an experiment, not traditional scholarship)
 
-**Anthropic Claude**: For theological nuance checking, historical contextualization, and ensuring arguments withstood rigorous counter-examination.
+The AI provided:
+- Research capacity I could never achieve alone
+- Multi-language analysis without years of training
+- Pattern recognition across vast datasets
+- Initial content generation based on scholarly frameworks
 
-**AI Image Generation Tools**: For creating the sophisticated infographics that visualize the 5 Dynamics framework and historical timeline.
+## The Honest Truth
 
-These tools enabled a solo researcher to accomplish what would traditionally require a team of translators, research assistants, and graphic designers. They democratized access to primary sources in languages I don't speak and allowed me to cross-reference thousands of documents in weeks rather than years.
+I did not spend five years in archives. I did not learn classical Arabic. I did not interview former extremists or travel to conflict zones. I did not have scholarly mentors reviewing drafts.
 
-**Critical Note**: While AI systems processed vast amounts of data, every interpretation, judgment, and conclusion in this book reflects human discernment. The AI was the research assistant; I remain the author—and bear full responsibility for any errors.
-
-To everyone who asked, "How's the book coming?" even when I had nothing to report—your interest sustained me.
-
+Instead, I spent **an intensive 2-day sprint** guiding AI systems through existing scholarship, testing whether they could synthesize coherent analysis at unprecedented speed. This book is the result—imperfect, experimentally generated in 48 hours, but potentially valuable as a demonstration of what cutting-edge AI-augmented research can achieve.
 ---
 
-While many contributed to this work, all errors, omissions, and interpretations remain solely my own. If this book offends, blame me. If it enlightens, credit those listed above.
+**All errors, misinterpretations, and limitations are mine**. The AI processed data; I chose what to keep, how to frame it, and take full responsibility for the result. If this book misleads, blame my curation. If it enlightens, credit is shared between human guidance and machine capability.
+
