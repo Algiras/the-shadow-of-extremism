@@ -40,7 +40,7 @@ They didn't just interpret Islam; they weaponized it into a revolutionary politi
 ## Why This Sequence? The Islamic Exception
 
 Readers may notice that Parts I-II present the Dynamics in apparent order:  
-Purity (Ch 1) → Trauma (Ch 3-4) → Narrative (Ch 5) → Belonging (Ch 9) → Entropy (Ch 6, 10)
+Purity (Ch 1) -> Trauma (Ch 3-4) -> Narrative (Ch 5) -> Belonging (Ch 9) -> Entropy (Ch 6, 10)
 
 This is not because the framework requires this sequence, but because **Islamic extremism's modern genealogy** happens to manifest this way:
 - Golden Age nostalgia existed first (Abbasid glory 750-1258)

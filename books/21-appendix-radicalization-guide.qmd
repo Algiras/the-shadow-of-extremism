@@ -80,9 +80,9 @@ Radicalization doesn't happen overnight. It's a gradual process that follows pre
 
 Every radicalized person has a **need** they're trying to fill. Identify it:
 
-1.  **Need for Significance**: "I want to matter." → Offer alternative ways to be heroic (volunteer work, activism)
-2.  **Need for Certainty**: "I need to know what's right." → Introduce nuance, show complexity
-3.  **Need for Belonging**: "I need a community." → Provide healthier social networks
+1.  **Need for Significance**: "I want to matter." -> Offer alternative ways to be heroic (volunteer work, activism)
+2.  **Need for Certainty**: "I need to know what's right." -> Introduce nuance, show complexity
+3.  **Need for Belonging**: "I need a community." -> Provide healthier social networks
 
 ---
 

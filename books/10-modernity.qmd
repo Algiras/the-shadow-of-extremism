@@ -163,7 +163,7 @@ If Mahsa Amini's death showed the brutality of Iran's morality police, the regim
 - GPS location and timestamp
 - Photos/video evidence
 
-The reported woman receives an **automatic SMS warning** with her car registration, exact time, and location. Repeat offenses → vehicle impounded.
+The reported woman receives an **automatic SMS warning** with her car registration, exact time, and location. Repeat offenses -> vehicle impounded.
 
 **But the app is just one tool in a digital panopticon**:
 

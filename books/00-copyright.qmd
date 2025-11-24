@@ -27,7 +27,7 @@ Full license: [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creat
 This book is published **free of charge** to ensure wide accessibility. Knowledge about extremism should not be behind a paywall.
 
 If you find this work valuable, please consider supporting future research:  
-**[Support this work →](25-support.qmd)**
+**[Support this work ->](25-support.qmd)**
 
 ---
 
