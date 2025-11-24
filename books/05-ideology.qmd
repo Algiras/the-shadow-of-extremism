@@ -36,6 +36,24 @@ The product is a story. A story that explains why you are suffering and who is t
 
 They didn't just interpret Islam; they weaponized it into a revolutionary political movement.
 
+::: {.callout-important}
+## Why This Sequence? The Islamic Exception
+
+Readers may notice that Parts I-II present the Dynamics in apparent order:  
+Purity (Ch 1) → Trauma (Ch 3-4) → Narrative (Ch 5) → Belonging (Ch 9) → Entropy (Ch 6, 10)
+
+This is not because the framework requires this sequence, but because **Islamic extremism's modern genealogy** happens to manifest this way:
+- Golden Age nostalgia existed first (Abbasid glory 750-1258)
+- Crusades/Mongols/Colonialism created trauma (1099, 1258, 1916, 1924)
+- Qutb theorized the absolute narrative post-trauma (1960s)
+- Digital platforms weaponized belonging mechanisms (2000s+)
+- ISIS demonstrated entropy through collapse (2014-2019)
+
+But **Chapter 17 shows the Inquisition (purity spiral) BEFORE the Black Death (trauma)**. Chapter 16 shows Buddhism's trauma (colonialism) before its purity myth crystallized. The Dynamics are **converging forces**, not destiny. Context determines order.
+
+**The framework explains how extremism operates, not when each dynamic appears.**
+:::
+
 ## The Evolution of Jihad
 
 The concept of Jihad has undergone a radical mutation over the last century, evolving through three distinct eras.
