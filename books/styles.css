@@ -1,12 +1,14 @@
 /* Custom styles for The Shadow of Extremism */
 
-/* Improve readability */
+/* Custom styles for The Shadow of Extremism */
+
+/* Improve readability - REMOVED to let theme handle typography
 body {
   font-family: "Georgia", "Times New Roman", serif;
   font-size: 18px;
   line-height: 1.7;
-  /* Removed hardcoded color to allow theme to control it */
 }
+*/
 
 /* Callout styling */
 .callout-note {
