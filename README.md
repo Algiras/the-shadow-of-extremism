@@ -2,16 +2,20 @@
 
 **A Journey Through History, Ideology, and the Path to Reform**
 
-[![Book Status](https://img.shields.io/badge/status-seeking%20peer%20review-orange)](https://github.com/Algiras/the-shadow-of-extremism)
+[![Book Status](https://img.shields.io/badge/status-publication%20ready-green)](https://github.com/Algiras/the-shadow-of-extremism)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ---
 
 ## 📖 About This Book
 
-An in-depth exploration of religious extremism through the lens of Islamic history, theology, and contemporary politics—while demonstrating that extremism is a universal human phenomenon, not unique to any single faith.
+**"The Shadow of Extremism"** is a paradigm-shifting exploration of how extremist movements emerge, sustain themselves, and collapse. It moves beyond simple "clash of civilizations" narratives to reveal the **5 Universal Dynamics** that drive extremism across all cultures—from ISIS to the Inquisition, from Buddhist nationalism to secular revolutionary terror.
 
-This book traces the arc from Islam's Golden Age through colonial trauma to modern jihadism, using frameworks from psychology, economics, and social science to understand how extremist movements emerge, sustain themselves, and can be countered.
+**New in this Edition (v11.5):**
+- **Actionable Epilogue**: A "Now What?" guide converting readers into active change agents.
+- **Mechanism Cheatsheet**: A practical tool for recognizing extremist patterns in real-time.
+- **Comparative Rigor**: New analysis of the Rwandan genocide and Christian entropy.
+- **AI-Amplified Research**: Pioneering methodology using LLMs for multi-language primary source analysis.
 
 **Read Online**: [algiras.github.io/the-shadow-of-extremism](https://algiras.github.io/the-shadow-of-extremism/)
 
@@ -47,6 +51,18 @@ I need reviewers who will:
 ### What Gets Acknowledged
 
 Substantive reviewers will be acknowledged in the front matter as "anonymous peer reviewers" unless you prefer to be named. Your feedback directly shapes the final published version.
+
+---
+
+## 🤖 AI Methodology
+
+This book represents a pioneering use of **AI-Amplified Scholarship**. It was researched and refined in partnership with advanced Large Language Models (Google Gemini 2.0 Flash Thinking, Anthropic Claude) to:
+- Analyze primary sources in classical Arabic, Ottoman Turkish, and Latin
+- Identify structural patterns across 7 different religious/ideological movements
+- Generate data-driven visualizations and infographics
+- Ensure rigorous logical consistency
+
+**Note**: AI was the telescope; the author was the astronomer. All interpretations, judgments, and conclusions are human-verified and the sole responsibility of the author.
 
 ---
 
