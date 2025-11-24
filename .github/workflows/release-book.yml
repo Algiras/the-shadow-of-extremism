@@ -37,31 +37,29 @@ jobs:
         run: |
           pip install -e .
 
-      - name: Render Book (PDF)
+      - name: Render Book (PDF and EPUB)
         run: |
           cd books
-          quarto render --to pdf
-          echo "PDF rendering complete"
-          # Verify PDF was created
-          if [ ! -f "_output/"*.pdf ]; then
+          quarto render
+          echo "Book rendering complete"
+          # Verify both files were created
+          PDF_FILE=$(find _output -name "*.pdf" -type f)
+          EPUB_FILE=$(find _output -name "*.epub" -type f)
+          
+          if [ -z "$PDF_FILE" ]; then
             echo "ERROR: PDF file was not generated!"
             ls -lah _output/
             exit 1
           fi
-          echo "PDF file found: $(ls _output/*.pdf)"
-
-      - name: Render Book (EPUB)
-        run: |
-          cd books
-          quarto render --to epub
-          echo "EPUB rendering complete"
-          # Verify EPUB was created
-          if [ ! -f "_output/"*.epub ]; then
+          
+          if [ -z "$EPUB_FILE" ]; then
             echo "ERROR: EPUB file was not generated!"
             ls -lah _output/
             exit 1
           fi
-          echo "EPUB file found: $(ls _output/*.epub)"
+          
+          echo "PDF file: $PDF_FILE"
+          echo "EPUB file: $EPUB_FILE"
 
       - name: List generated files
         run: |
