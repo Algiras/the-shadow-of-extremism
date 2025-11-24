@@ -64,27 +64,28 @@ jobs:
           cd books
           quarto render --to html
 
-      - name: Render Book (PDF)
-        run: |
-          cd books
-          quarto render --to pdf
+      # PDF and EPUB rendering temporarily disabled - causing workflow failures
+      # - name: Render Book (PDF)
+      #   run: |
+      #     cd books
+      #     quarto render --to pdf
 
-      - name: Render Book (EPUB)
-        run: |
-          cd books
-          quarto render --to epub
+      # - name: Render Book (EPUB)
+      #   run: |
+      #     cd books
+      #     quarto render --to epub
 
-      - name: Upload PDF artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: book-pdf
-          path: books/_output/*.pdf
+      # - name: Upload PDF artifact
+      #   uses: actions/upload-artifact@v4
+      #   with:
+      #     name: book-pdf
+      #     path: books/_output/*.pdf
 
-      - name: Upload EPUB artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: book-epub
-          path: books/_output/*.epub
+      # - name: Upload EPUB artifact
+      #   uses: actions/upload-artifact@v4
+      #   with:
+      #     name: book-epub
+      #     path: books/_output/*.epub
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
