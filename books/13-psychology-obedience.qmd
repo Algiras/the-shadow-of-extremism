@@ -18,17 +18,19 @@ Milgram recruited ordinary men for what he claimed was a "memory study."
 *   **The Reality**: The Learner was an actor. No shocks were delivered. But the Teacher didn't know that. As the voltage rose, the actor would scream, beg for mercy, and eventually go silent.
 *   **The Result**: Before the experiment, psychiatrists predicted that only 0.1% of people (sadists) would go all the way to 450 volts. In reality, **65% of participants administered the lethal shock**.
 
-### The Agentic State
-Milgram coined the term **"Agentic State"** to explain this. When a person enters a hierarchy, they shift from acting as an autonomous individual to acting as an **agent** of the authority figure. They no longer feel responsible for their actions; they see themselves merely as a tool.
+### The Agentic State vs. Engaged Followership
 
-**Application to Extremism**:
-When an ISIS recruit beheads a prisoner, he is not acting out of personal sadism; he is in an Agentic State. He believes he is merely the executioner for a higher authority (God/The Caliph). This psychological distance allows him to commit atrocities that would otherwise shatter his psyche.
+Milgram originally coined the term **"Agentic State"** to explain this, arguing that subjects entered a passive state where they viewed themselves merely as instruments of authority. However, modern re-evaluations of Milgram's archives (by researchers like Alex Haslam and Stephen Reicher) suggest a darker truth: **Engaged Followership**.
 
-### The Variations: It's Not About Personality
-Milgram ran variations of the experiment to see what changed the results.
+Participants didn't obey because they were passive robots; they obeyed because they **identified with the mission**. When the experimenter used direct orders ("You have no choice"), most participants rebelled. They only continued when the command was framed as a shared scientific enterprise ("The experiment requires that you continue").
 
-*   **Proximity**: When the Teacher had to physically force the Learner's hand onto the shock plate, obedience dropped to 30%. *Distance facilitates cruelty.* This is why drone warfare and long-range missiles are psychologically easier than knife attacks.
-*   **Dissenting Peers**: When two other "Teachers" (actors) refused to continue, the subject's obedience dropped to 10%. *Conformity is the antidote to authority.* This explains why terrorist cells isolate recruits—to prevent the "infection" of dissent.
+**Application to Extremism**
+
+This distinction is critical. When an ISIS recruit beheads a prisoner, he is not mindlessly following orders like a cog in a machine. He is a **devoted actor** who believes he is advancing a noble, sacred cause. He has not lost his morality; he has re-calibrated it to align with the group's mission.
+
+### The Variations: Context Matters
+
+Milgram ran variations of the experiment that revealed the fragility of this obedience. When the Teacher was forced to physically press the Learner's hand onto the shock plate, obedience dropped to 30%, proving that **distance facilitates cruelty**. This explains why remote warfare—from drone strikes to cyber-attacks—is psychologically easier than face-to-face violence. Conversely, when two other "Teachers" (actors) refused to continue, the subject's obedience plummeted to 10%. **Conformity is the antidote to authority.** This is why terrorist cells aggressively isolate recruits—to prevent the "infection" of dissent from breaking the spell of the mission.
 
 ## The Myth of the Stanford Prison Experiment: When Science Becomes Legend
 
